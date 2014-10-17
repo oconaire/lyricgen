@@ -1,0 +1,1444 @@
+Rhyming Dictionary 0.9 - interactive mode
+ - exits on an empty line
+ - type . to toggle between rhyme and syllable searches
+ - type , to toggle between merged and non-merged results
+ - type ? for help
+RHYME> Finding perfect rhymes for am...
+1: am, bahm, bam, bram, cam, camm, cham, clam, cram, dahm, dam, damm, damme
+   damn, dram, flam, flamm, frahm, fram, gahm, gamm, graeme(2), graham(2), gram
+   gramm, hahm, ham, hamm, hamme, jam, jamb, kam, kamm, klamm, kram, kramm
+   kramme, lahm, lam, lamb, lambe, lamm, lamme, ma'am, nahm, nam, pam, pham
+   plam, quamme, rahm, ram, ramm, sahm, sam, scam, schram, schramm, scram, sham
+   slam, spam, sram, stam, stamm, stram, swam, tam, tamm, tham, tram, wham, yam
+   zahm
+
+2: abram, alam, burcham, dirlam, exam, inghram, kvam, kvamme, laflam
+   madame(2), mcclam, mcham, mclamb, mme, panam, siam, t-lam, vandam, vandamme
+
+Finding perfect rhymes for am(2)...
+1: behm, bem, blehm, brehm, brem, chem, clem, dehm, demme, em, emme, femme
+   gehm, gem, gemme, hem, hemm, hemme, jem, kehm, kem, khem, klem, klemm, klemme
+   lem, lemm, m, m., prem, rehm, rem, remme, rhem, schemm, schwemm, stem, stemm
+   swem, temme, them
+
+2: am(2), condemn, fm, p.m, pm
+
+3: cardizem, imm, mam(2), mgm, pgm, ppm, rpm
+
+4: difm(2), wm(2)
+
+RHYME> Finding perfect rhymes for and...
+1: and, band, banned, bland, brand, brande, canned, chand, fanned, gland
+   grand, grande, hand, land, lande, manned, panned, planned, rand, sand, sande
+   scanned, shand, spanned, stand, strand, strande, tanned, vande
+
+2: bourland, command, deland, demand, disband, expand, fernand, firsthand
+   hoiland, laband, lefthand, marchand, offhand, outmanned, remand, righthand
+   unmanned, unplanned, withstand
+
+3: meadowland, understand
+
+4: misunderstand
+
+RHYME> Finding perfect rhymes for are...
+1: ahr, ar, are, baar, bahr(2), bahre, bar, barr, barre(2), car, carr, carre
+   char, claar, clar, csar, czar, dar, darr(2), fahr, far, farr, flohr, gaar
+   gahr, gar, gohr, haar, jahr, jar, kahr, kahre(2), karr, klar, lahr, lar
+   maher, mahr, mar, marr, mawr(2), meagher, our(3), paar, par, parr, pfarr
+   phar, pharr, quarre, r, r., saar, sar, scar, schaar, schar, scharr, skaar
+   sklar, spahr, spar, sphar, spohr, staar, star, starr, tar, tarr, thar, tsar
+   voir, yahr
+
+2: adar, afar, ajar, algar, allar, alvare(2), amar, azar, azhar, bargar
+   bazaar, bazar, bejar, bizarre, bodnar, bogar, bognar, bomar, bondar
+   bonior(2), boyar, ceasar, cigar, cisar, cotnoir, cousar, d'ivoire, dakar
+   dardar, demar, detar, dinar, disbar, dzhokhar, dzokhar, farquar, farrar
+   ghafar, giroir, giscard(2), godar, gombar, gregoire, guitar, guizar, hajjar
+   hamar, hribar, huizar, jabar, jabbar, jaffar, jamar, jiar, jr(2), kadar(2)
+   kjar, kumar, labar, lamar, lamarr, lebar, lemar, mcgarr, melgar, minnaar
+   myanmar, najar, najjar, navar, navarre, nayyar, nazar, obar, obarr, paccar
+   pickar, pintar, preslar, qatar, renoir, revoir, ribar, robar, sagar, sharar
+   sharrar, soutar, subpar, tabar, tesar, tokar, tovar, transtar, victoire
+   zachar, zadar(2), zagar, zalar
+
+3: aer(2), almanzar, andujar, aquilar, avelar, baldemar, baltazar, delamar
+   delebarre, hekmatyar, hocevar, menjivar, npr, rajkumar, saldivar, saldovar
+   superstar, valdemar, zaldivar, zulfikar
+
+4: almodovar, balakumar, emdr, qasr(2)
+
+5: wor(2)
+
+RHYME> Finding perfect rhymes for behind...
+1: bind, blind, dined, find, fined, freind, grind, hind, kind, lined, mind
+   mined, pined, rind, shined, signed, twined, whined, wind, wined
+
+2: aligned, assigned, behind, combined, confined, consigned, declined, defined
+   designed, elkind, enshrined, entwined, gschwind, inclined, maligned, mankind
+   opined, refined, remind, resigned, unkind, unlined, unsigned, unwind
+
+3: disinclined, intertwined, realigned, reassigned, redefined, redesigned
+   unconfined, undefined, undermined, unrefined
+
+RHYME> Finding perfect rhymes for boy...
+1: boy, boye, broy, choi, choy, cloy, coy, coye, croix, croy, doi, floy, foie
+   foy, foye, goy, hoi, hoy, hoye, joy, joye, knoy, kroy, loy, loye, moy, moye
+   neu, oi, oie, oy, oye, ploy, roi, roy, roye, scheu, sgroi, soy, stoy, toy
+   toye, troy, woy, yoy
+
+2: alroy, annoy, bolshoi, deboy, decoy, dejoy, deploy, destroy, elroy, employ
+   enjoy, flournoy, laboy, lacroix, lafoy, lavoy, malloy, mccloy, mccoy, mckoy
+   mcroy, mcvoy, polloi, quemoy, savoy
+
+3: illinois, redeploy, unemploy
+
+4: underemploy
+
+RHYME> Finding perfect rhymes for breath...
+1: beth, breath, breth, creath, death, greth, heth, leth, meth, neth, peth
+   seth, sheth, sneath, speth
+
+2: eldreth, macbeth, mcbeath, mcbeth
+
+3: marybeth
+
+RHYME> Finding perfect rhymes for breathe...
+1: breathe, seethe, sheathe, teethe
+
+RHYME> Finding perfect rhymes for but...
+1: but, butt, cut, dutt, glut, gut, gutt, haute(2), hut, hutt, jut, klugt
+   knut, kut, mutt, nut, nutt, phut, putt, rut, rutt, schut, schutt, schutte
+   scutt, shut, shutt, skutt, slut, smut, strut, tut, tutt, utt, what
+
+2: abut, allnutt, chesnutt, curnutte, mcnutt, rebut, somewhat, uncut
+
+3: terre-haute(2)
+
+RHYME> Finding perfect rhymes for choke...
+1: bloke, boak, boake, boeck, boeke, bouck, broke, choke, cloak, cloke, cocke
+   coke, croak, croke, doak, doke, droke, folk, goecke, goeke, gohlke(2), hoak
+   hoeck, hoek, hoke, joke, knoke, koch(2), koke, kolk, moacq, moak, noack, oak
+   olk, poke, polk, roque, schmoke, schoeck, schroeck, smoak, smoke, snoke, soak
+   spoke, stoke, stroke, szoke, woke, wolk, wouk(2), yoak, yoke, yolk
+
+2: awoke, baroque, evoke, invoke, larocque, laroque, misspoke, provoke, revoke
+
+RHYME> Finding perfect rhymes for chorus...
+2: chorus, florists(3), forests(3), goris, horace, horus, maurice(2), maurus
+   morris, morris', porous, sorus, taurus, torras, torus
+
+3: delores, dolores, fitzmaurice, fitzmorris, mcmorris, montgoris, thesaurus
+
+4: brontosaurus, stegosaurus
+
+5: maquiladoras, tyrannosaurus
+
+RHYME> Finding perfect rhymes for collector...
+2: decter, ector, fechter, hector, lecter, lector, nectar, prechter, rector
+   schechter, schecter, schlechter, sector, specter, spector, spectre, vector
+   waechter, wechter
+
+3: collector, connecter, connector, defector, derecktor, detector, director
+   erector, injector, inspector, objector, projector, protector, transtector
+
+RHYME> Finding perfect rhymes for could...
+1: could, good, goode, hood, schuld, should, stood, wood, would, you'd(2)
+
+2: fulwood, suhud, withstood
+
+3: understood
+
+4: misunderstood
+
+RHYME> Finding perfect rhymes for damned...
+1: crammed, dammed, damned, hamed, jammed, rammed, scammed, slammed
+
+RHYME> Finding perfect rhymes for don't...
+1: bonet, don't, won't, wont
+
+Finding perfect rhymes for don't(2)...
+1: blown, boan, boehne, boen, bohn, bohne, bone, bown, bowne, clone, coan
+   cohn, cone, crone, doan, doane, doanh, don't(2), drone, flown, fone, goan
+   goen, groan, groen, grone, grown, hoehn, hoehne, hoen, hone, joan, jone
+   kloehn, known, koehn, koehne, koen, kohne, krohn, loan, lone, moan, moen, mon
+   mone, oanh, own, phone, plohn, prone, rhone, roan, roane, roen, rone, schoen
+   schone, scone, sewn, shone, shown, sloan, sloane, slone, sown, stone, thoen
+   thone, throne, thrown, tone, trone, zone
+
+2: alone, arone, athlone, atone, barone, barrone, bastogne, bayonne, bemoan
+   cadrone, capone, carone, catone, cirone, cologne, condone, cyclone, damone
+   dethrone, dijon(2), disown, dragone, farone, garone, hipbone, homegrown
+   intone, latrone, leone, lupone, malone, mamone, marone, masone, mccone
+   mccrone, mcglone, mchone, mckone, mckown, melloan, milone, mione, montrone
+   outgrown, outshone, palone, pavone, perone, picone, pirone, postpone, ramon
+   ramone, raton, salone, scavone, scimone, sharon(2), shirone, simone, stallone
+   tirone, trombone, tyrone, unknown, valone, vanstone, varone, yarchoan
+
+3: bourguignon, calderon(2), cipollone, overblown, overgrown, overthrown
+   romanone, unbeknown
+
+4: concepcion
+
+5: corporacion, diaz-calderon
+
+RHYME> Finding perfect rhymes for drags...
+1: baggs, bags, braggs, brags, craggs, crags, daggs, drags, fags, flags, gags
+   jags, knaggs, lags, maggs, mags, nags, rags, sags, scaggs, scags, skaggs
+   snags, staggs, stags, tags, wag's, wags, zags
+
+RHYME> Finding perfect rhymes for every...
+3: every, reverie
+
+Finding perfect rhymes for every(2)...
+2: devry, every(2)
+
+3: vanevery
+
+RHYME> Finding perfect rhymes for feed...
+1: bead, bede, beede, bleed, brede, breed, cede, creed, dede, deed, diede
+   eade, ede, fede, feed, frede, freed, freid, fried(2), friede, gaede, grede
+   greed, he'd, heed, keyed, knead, kneed, lead(2), leed, mead, meade, nead
+   need, nied, peed, plead, read(2), reed, reid, ried, riede, schmead, schwede
+   screed, seed, she'd, skied, smead, snead, sneed, speed, steed, streed, swede
+   teed, thede, thiede, tiede, tweed, we'd, weed, wied, wrede
+
+2: accede, agreed, aidid, concede, decreed, degreed, elide, exceed, gilead
+   hadid, hamid, impede, indeed, laclede, lipide, misdeed, mislead, misread
+   omead, precede, proceed, rasheed, rashid, recede, reread, reseed, saeed
+   secede, shaheed, stampede, succeed, vahid, wahid, waleed, walid
+
+3: alwaleed, aristede, aristide, disagreed, guaranteed, intercede, overfeed
+   supersede
+
+RHYME> Finding perfect rhymes for feelings...
+2: ceilings, dealings, feelings, wheeling's
+
+RHYME> Finding perfect rhymes for fit...
+1: bit, brit, britt, chit, fit, fitt, flit, get(2), grit, hit, hitt, it, kit
+   kitt, knit, lit, litt, mit(2), mitt, nit, pit, pitt, plitt, pritt, quit, ritt
+   schlitt, schmidt, schmit, schmitt, shit, sit, skit, slit, smit, spit, split
+   splitt, stitt, tit, tritt, vitt, whit, whitt, wit, witt, witte, writ
+
+2: acquit, admit, barritt, befit, boblitt, burditt, clampitt, commit, davitt
+   devitt, dewitt, dewitte, douthit, douthitt, emit, gillett, it-wit, laffitte
+   lafitte, legit(2), mcnitt, omit, permit, politte, presplit, prewitt, refit
+   remit, savitt, submit, transmit, unfit
+
+3: readmit, recommit(2), resubmit
+
+RHYME> Finding perfect rhymes for for...
+1: baur, boar, boer, bohr, bore, borre, chore, clore, coar, cohr, cor, core
+   corps, corr, d'or, doerr, dohr, door, dore, dorr, drawer, faure, floor, flor
+   flore, for, fore, four, glor, glore, goar, gore, gorr, hoar, hoare, hoerr
+   horr, knorr, kohr, laur, laure, loar, loehr, lohr, lor, lore, mohr, moore(2)
+   mor, more, morr, nohr, nor, oar, ohr, or, ore, orr, por, pore, porr, pour
+   roar, roehr, rohr, saur, schnorr, schor, schorr, scor, score, shore, shorr
+   snore, soar, sor, sore, spaur, spore, stoehr, stohr, store, storr, swore
+   thor, tor, tore, torr, torre, vore, war, warr, whore, woehr, wor, wore, yore
+   your
+
+2: abhor, ador, adore, afore, amour, ashore, bator, before, c4, cat-4, decor
+   delore, deplore, devor, dior, elnore, explore, gabor, galore, gilgore
+   hardcore, ignore, igor, implore, inscore, inshore, jambor, labore, lahore
+   lalor, lamaur, lazor, lenore, livor, longcor, m4, mazor, melor, ngor, noncore
+   offshore, outpour, outscore, postwar, prewar, rapport, restore, roquemore
+   rumore, sedor, senor, timor
+
+3: antiwar, anymore, armentor, balthazor, guarantor, heretofore, livermore
+   montefiore(2), paramore, underscore
+
+4: cavalli-sfor, espectador, montemayor, sotomayor
+
+5: villasenor
+
+RHYME> Finding perfect rhymes for gets...
+1: bet's, bets, betts, betz, bretts, bretz, debt's, debts, fettes, fetz, frets
+   fretz, gets, getts, getz, goetz, greitz, gretz, hetz, jet's, jets, jets'
+   jett's, ketz, kretz, let's, lets, letts, letz, met's, mets, mets', metts
+   metz, nets, netz, pet's, pets, petz, pletz, retz, sets, stetz, sweats, swetz
+   threats, vets, wets, wetz
+
+2: abets, barnett's, begets, berlet's, besets, brevets, brunettes, burnett's
+   cadets, cassettes, corvettes, diskettes, duets, forgets, gillette's
+   jenrette's, jouret's(2), kmetz, nonjets, octets, ovett's, pipettes, quartet's
+   quartets, regrets, resets, rockettes, rosettes, roulette's, roulettes
+   tourette's, upsets, vignettes
+
+3: baronets(2), cabernets, carteret's, cigarette's, cigarettes, coronets
+   falconets, larroquette's, minarets, pinochet's(2), pirouettes, silhouettes
+   statuettes, suffragettes, willamette's(2)
+
+Finding perfect rhymes for gets(2)...
+1: bits, bitz, blitz, brits, britts, britz, chits, critz, fits, fitts, fitz
+   frits, fritts, fritz, gets(2), glitz, grits, gritz, hits, hitz, hritz, it's
+   its, kits, kitts, kitz, klitz, knits, kritz, lits, litts, litz, mitts, nitz
+   pits, pitt's, pitts, pitz, pritts, pritz, quits, ritts, ritz, schlitz
+   schmidt's, schmitz, schnitz, sits, sitts, sitz, skits, slits, smits, spits
+   spitz, splits, stitz, tits, tritz, wit's, wits, witts, witz, writs
+
+2: acquits, admits, befits, berlitz, commits, emits, moritz, obits(2), omits
+   ovitz, permits, submits, transmits
+
+RHYME> Finding perfect rhymes for go...
+1: au, aux, beau, beaux, bleau, blow, blowe, bo, boe, boeh, bow(2), bowe
+   breau, breault, breaux, bro, broe, browe, chau, cho, choe, cloe, clow, co
+   co., coe, cro, crow, crowe, dau, doe, doh, dough, eau, flo, floe, flow, flowe
+   foe, fro, froh, gau, glo, gloe, glow, go, goe, gogh, goh, gro, groh, grow
+   growe, ho, hoe, hoh, jo, joe, joh, know, ko, koh, krogh, kroh, krowe, kyo, lo
+   loe, loew(2), loewe(2), loh, low, lowe, luo, m'bow, mau, meaux, mo, moe, mow
+   nau, neault, ngo, no, noe, noh, o, o', o., oh, ow, owe, plough(2), po, poe
+   poh, pro, queau, quo, reaux, rheault, rho, ro, roe, roh, rohe, row, rowe
+   schau, sew, sgro, show, sloe, slow, snow, snowe, so, sow(2), stow, stowe
+   stroh, strow, tho, though, throw, toe, tow, towe, trow, tso, vo, whoa, wo
+   woe, wroe, yau, yo, yoe, yoh, zoh
+
+2: aglow, ago, although, arnaud, arnault, badeau, badeaux, barbeau, beaudreau
+   bebeau, begnaud, belleau, below, bestow, bibeau, bibeault, bio, biscoe
+   blincoe, boileau, boisseau, bonneau, bordeau, bordeaux, boudreau, boudreaux
+   bourbeau, bourdeau, bourgault, brancheau, brasseaux, brazeau, brideau
+   brosseau, brousseau, bruneau, brusseau, budreau, buteau, cabo, campeau
+   chabot, champeau, changsho, chateau, chateaux, chenault, cointreau, comeau
+   comeaux, compeau, cousteau, crepeau, croteau, crotteau, daignault, daigneault
+   davao, davault, deboe, dedeaux, defoe, denault, deneau, deneault, devault
+   devaux, deveau, deveaux, devoe, drapeau, dubeau, dufault, dussault, dusseau
+   dusseault, enloe, enlow, enslow, escoe, escrow, facteau, faucheux, faurot
+   fauteux, favreau, fecteau, forego, forgo, fregeau, furlaud, garceau, gareau
+   garneau, gaudreau, gauthreaux, gautreau, gautreaux, gauvreau, gendreau
+   georgiou, gibeau, gibeault, giraud, goudeau, goudreau, groleau, guilbault
+   guilbeau, guilbeault, guilbeaux, guillot, hello, hurteau, hwang-ho, inco
+   inlow, inscoe, jacquot, jandreau, jarreau, kayo, kowtow(2), labeau, lafoe
+   lambreau, lareau, laveau, lebeau, lebow, ledlow, legault, leleux, lettau
+   lheureux, lienau, lozeau, malveaux, manseau, marceau, marceaux, margaux
+   mayeux, michaud, michaux, micheaux, migneault, mineau, miro(2), monceaux
+   mongeau, monroe, moreau, morneau, morneault, mousseau, munro, nadeau, nedeau
+   neveau, nouveau, outgrow, papo, pernod, perot, perreault, peugeot, pineau
+   plateau, primeau, primeaux, pruneau, rambeau, renaud, renault, reneau, rideau
+   rideaux, riendeau, rondeau, rougeau, rouleau, so-so, soileau, sterno, tableau
+   tableaux, tarot, tebeau, tetreault, thebeau, thibault, thibeau, thibeaux
+   thiebaud, thoreau, thurnau, tondreau, trudeau, truffaut, turbot, ungo, uno
+   valleau, van-gogh, veilleux, viau, vieau, vienneau, vigneau, vigneault
+
+3: apropos, eeo, imo(2), ivo(2), overflow(2), pinsoneault(2), taekwondo
+   tallyho, theriault, therriault, tourtelot(2), tyo(2), undergo
+
+4: celo(3)
+
+6: genego(3)
+
+RHYME> Finding perfect rhymes for god...
+1: baade, brod, clod, cod, codd, dodd, fahd, glod, god, hodde, nod, odd, plod
+   pod, prod, quad, raad, rod, rodd, saad, schaad, scrod, shod, sod, squad, tod
+   todd, trod, wad
+
+2: abad, assad, awad, ayyad, ballade, bershad, elrod, facade, girod, jawad
+   mossad(2), pernod(2), petard(2), rachad, rashad, riad, riyad, riyadh(2)
+   roughshod
+
+3: esplanade
+
+4: natividad
+
+RHYME> Finding perfect rhymes for good...
+1: could, good, goode, hood, schuld, should, stood, wood, would, you'd(2)
+
+2: fulwood, suhud, withstood
+
+3: understood
+
+4: misunderstood
+
+RHYME> Finding perfect rhymes for grow...
+1: au, aux, beau, beaux, bleau, blow, blowe, bo, boe, boeh, bow(2), bowe
+   breau, breault, breaux, bro, broe, browe, chau, cho, choe, cloe, clow, co
+   co., coe, cro, crow, crowe, dau, doe, doh, dough, eau, flo, floe, flow, flowe
+   foe, fro, froh, gau, glo, gloe, glow, go, goe, gogh, goh, gro, groh, grow
+   growe, ho, hoe, hoh, jo, joe, joh, know, ko, koh, krogh, kroh, krowe, kyo, lo
+   loe, loew(2), loewe(2), loh, low, lowe, luo, m'bow, mau, meaux, mo, moe, mow
+   nau, neault, ngo, no, noe, noh, o, o', o., oh, ow, owe, plough(2), po, poe
+   poh, pro, queau, quo, reaux, rheault, rho, ro, roe, roh, rohe, row, rowe
+   schau, sew, sgro, show, sloe, slow, snow, snowe, so, sow(2), stow, stowe
+   stroh, strow, tho, though, throw, toe, tow, towe, trow, tso, vo, whoa, wo
+   woe, wroe, yau, yo, yoe, yoh, zoh
+
+2: aglow, ago, although, arnaud, arnault, badeau, badeaux, barbeau, beaudreau
+   bebeau, begnaud, belleau, below, bestow, bibeau, bibeault, bio, biscoe
+   blincoe, boileau, boisseau, bonneau, bordeau, bordeaux, boudreau, boudreaux
+   bourbeau, bourdeau, bourgault, brancheau, brasseaux, brazeau, brideau
+   brosseau, brousseau, bruneau, brusseau, budreau, buteau, cabo, campeau
+   chabot, champeau, changsho, chateau, chateaux, chenault, cointreau, comeau
+   comeaux, compeau, cousteau, crepeau, croteau, crotteau, daignault, daigneault
+   davao, davault, deboe, dedeaux, defoe, denault, deneau, deneault, devault
+   devaux, deveau, deveaux, devoe, drapeau, dubeau, dufault, dussault, dusseau
+   dusseault, enloe, enlow, enslow, escoe, escrow, facteau, faucheux, faurot
+   fauteux, favreau, fecteau, forego, forgo, fregeau, furlaud, garceau, gareau
+   garneau, gaudreau, gauthreaux, gautreau, gautreaux, gauvreau, gendreau
+   georgiou, gibeau, gibeault, giraud, goudeau, goudreau, groleau, guilbault
+   guilbeau, guilbeault, guilbeaux, guillot, hello, hurteau, hwang-ho, inco
+   inlow, inscoe, jacquot, jandreau, jarreau, kayo, kowtow(2), labeau, lafoe
+   lambreau, lareau, laveau, lebeau, lebow, ledlow, legault, leleux, lettau
+   lheureux, lienau, lozeau, malveaux, manseau, marceau, marceaux, margaux
+   mayeux, michaud, michaux, micheaux, migneault, mineau, miro(2), monceaux
+   mongeau, monroe, moreau, morneau, morneault, mousseau, munro, nadeau, nedeau
+   neveau, nouveau, outgrow, papo, pernod, perot, perreault, peugeot, pineau
+   plateau, primeau, primeaux, pruneau, rambeau, renaud, renault, reneau, rideau
+   rideaux, riendeau, rondeau, rougeau, rouleau, so-so, soileau, sterno, tableau
+   tableaux, tarot, tebeau, tetreault, thebeau, thibault, thibeau, thibeaux
+   thiebaud, thoreau, thurnau, tondreau, trudeau, truffaut, turbot, ungo, uno
+   valleau, van-gogh, veilleux, viau, vieau, vienneau, vigneau, vigneault
+
+3: apropos, eeo, imo(2), ivo(2), overflow(2), pinsoneault(2), taekwondo
+   tallyho, theriault, therriault, tourtelot(2), tyo(2), undergo
+
+4: celo(3)
+
+6: genego(3)
+
+RHYME> Finding perfect rhymes for hard...
+1: ard, bard, barred, byard, card, chard, charred, gard, garde, guard, hard
+   huard, jarred, lard, marred, nard, parde, scarred, shard, sparred, starred
+   suard(2), sward, tarred, yard, yarde
+
+2: alard, archard, barnard(2), bedard, belgard, bellard, benard, berard
+   bernard, berrard, bevard, billard, boilard, bolyard, bombard, bongard
+   borchard, bossard, bouchard, bouffard, bovard, bozard, brossard, brouillard
+   broussard, bunyard, burchard, burnard, buzard, canard, chouinard, couillard
+   coulthard, deckard, denard, dennard, dewaard, disbarred, discard, drouillard
+   fayard, gabbard, gallard, garard, gaspard, gerard, giard, gibbard, gillard
+   gilyard, girard, giscard, godard, gossard, guerard, guichard, guinyard
+   hilyard, icard, jarrard, lazard, maillard, marquard, mccard, menard, minard
+   picard, pickard, regard, renard, rennard, retard, revard, ricard, rocard(3)
+   rouillard, suchard
+
+3: avant-garde, disregard, hypercard
+
+RHYME> Finding perfect rhymes for have...
+1: calve, halve, have, nav
+
+RHYME> Finding perfect rhymes for hurt...
+1: bert, berte, birt, blurt, burt, burtt, chert, curt, dirt, erte, flirt, gert
+   girt, herdt, hert, hirt, hurt, hurtt, kirt, kuhrt, kurt, peart, pert, purt
+   schwerdt, shirt, skirt, spurt, squirt, turret(2), vert, wert, wirt
+
+2: advert, alert, assert, avert, boisvert, concert(2), convert(2), desert(2)
+   dessert, divert, evert, exert, inert, insert, invert, mcgirt, mcguirt
+   mcwhirt, overt, pervert(2), revert, subvert, thibert, unhurt, vanwert
+
+3: disconcert, reassert
+
+RHYME> Finding perfect rhymes for i...
+1: ai, ay(2), aye, bae, bi, bligh, bly, blye, brye, buy, by, bye, cai, chae
+   chai, chi, cry, crye, cy, dai, di(2), die, dry, drye, dye, eye, fae, fi, fly
+   flye, frei, fry, frye, fye, gae, guy, heye, hi, high, hy, i, i., jai, kai
+   keye, kwai, lai, lie, ly, lye, mai, mei, my, ngai, nie(2), nigh, nye, pae
+   phi, phy, pi, pie, ply, pri, pry, psi, pty, pye, rye, sai, shai, shy, sigh
+   sky, sligh, sly, slye, spry, spy, sty, sy, tae(2), tai, thai, thigh, thy, tie
+   tri, try, tsai, ty, tye, vi, vie, vy, wai, why, wry, wrye, wye, y, y., yie(2)
+
+2: akai, alai, ally(2), altai, apply, awry, bandai, barkai, belie, bely
+   bonsai, brunei, bye-bye, chiengmai, chubais, chugai, comply, decry, defy
+   deny, descry, dongmei, dubai, dupuy, good-bye, goodbye, hereby, hi-fi, imai
+   imply, iwai, july, kanai, kansai, lahaie(2), mcfly, mihai, mistry(2), murai
+   nankai, nearby, rely, reply, retry, shanghai, standby, sundai, supply, switaj
+   thereby, tokai, untie, uy(2), versailles, whereby, xuemei, zhuhai
+
+3: dui, gyi(2), kyi(2), lxi(2), misapply, overfly, private-eye, resupply
+   sci(2), semidry, sri(2), underlie, underly
+
+4: cspi, isty(2), oversupply, wy(2)
+
+5: dwi
+
+6: adl-tabatabai
+
+RHYME> Finding perfect rhymes for i'm...
+1: beim, chime, climb, clime, crime, dime, grime, haim, heim, hime, i'm, kime
+   lime, lyme, mime, prime, rhyme, rime, seim, sime, slime, syme, thyme, time
+
+2: onetime, part-time, sublime
+
+3: anticrime
+
+RHYME> Finding perfect rhymes for inside...
+1: bide, bride, chide, clyde, cried, died, dried, dyed, eid, eide, eyed, fide
+   flied, fried, glide, guide, guyed, heid, heide, hide, hyde, i'd, ide, lide
+   lied, lyde, pied, plied, pride, pried, pryde, ride, scheid, schmied, schneid
+   seid, seide, shied, side, sighed, slide, snide, spied, stride, syed, tide
+   tied, tried, vide, vied, why'd, wide, wyden
+
+2: abide, allied, applied, aside, astride, belied, beside, betide, cofide
+   collide, complied, confide, decide, decried, defied, denied, deride, divide
+   implied, inside, liquide, macbride, mcbride, mcbryde, misguide, obeid
+   outside, pool-side, preside, provide, relied, replied, reside, retried
+   stateside, subside, supplied, untied, untried, upside, westside, worldwide
+
+3: alongside, coincide, malahide, misapplied, nationwide, subdivide
+
+4: oversupplied
+
+Finding perfect rhymes for inside(2)...
+2: inside(2)
+
+RHYME> Finding perfect rhymes for it...
+1: bit, brit, britt, chit, fit, fitt, flit, get(2), grit, hit, hitt, it, kit
+   kitt, knit, lit, litt, mit(2), mitt, nit, pit, pitt, plitt, pritt, quit, ritt
+   schlitt, schmidt, schmit, schmitt, shit, sit, skit, slit, smit, spit, split
+   splitt, stitt, tit, tritt, vitt, whit, whitt, wit, witt, witte, writ
+
+2: acquit, admit, barritt, befit, boblitt, burditt, clampitt, commit, davitt
+   devitt, dewitt, dewitte, douthit, douthitt, emit, gillett, it-wit, laffitte
+   lafitte, legit(2), mcnitt, omit, permit, politte, presplit, prewitt, refit
+   remit, savitt, submit, transmit, unfit
+
+3: readmit, recommit(2), resubmit
+
+RHYME> Finding perfect rhymes for keep...
+1: beep, bleep, cheap, creep, deep, diep, eap(2), griep, heap, heape, jeep
+   keep, kneip, kniep, leap, leep, lepe, peep, reap, reep, riepe, schliep, seep
+   seip, seipp, sepe, sheep, sleep, steep, streep, sweep, tepe, veep, weep
+
+2: asleep, bopeep, felipe, mcsleep, phillipe
+
+3: anandeep
+
+RHYME> Finding perfect rhymes for know...
+1: au, aux, beau, beaux, bleau, blow, blowe, bo, boe, boeh, bow(2), bowe
+   breau, breault, breaux, bro, broe, browe, chau, cho, choe, cloe, clow, co
+   co., coe, cro, crow, crowe, dau, doe, doh, dough, eau, flo, floe, flow, flowe
+   foe, fro, froh, gau, glo, gloe, glow, go, goe, gogh, goh, gro, groh, grow
+   growe, ho, hoe, hoh, jo, joe, joh, know, ko, koh, krogh, kroh, krowe, kyo, lo
+   loe, loew(2), loewe(2), loh, low, lowe, luo, m'bow, mau, meaux, mo, moe, mow
+   nau, neault, ngo, no, noe, noh, o, o', o., oh, ow, owe, plough(2), po, poe
+   poh, pro, queau, quo, reaux, rheault, rho, ro, roe, roh, rohe, row, rowe
+   schau, sew, sgro, show, sloe, slow, snow, snowe, so, sow(2), stow, stowe
+   stroh, strow, tho, though, throw, toe, tow, towe, trow, tso, vo, whoa, wo
+   woe, wroe, yau, yo, yoe, yoh, zoh
+
+2: aglow, ago, although, arnaud, arnault, badeau, badeaux, barbeau, beaudreau
+   bebeau, begnaud, belleau, below, bestow, bibeau, bibeault, bio, biscoe
+   blincoe, boileau, boisseau, bonneau, bordeau, bordeaux, boudreau, boudreaux
+   bourbeau, bourdeau, bourgault, brancheau, brasseaux, brazeau, brideau
+   brosseau, brousseau, bruneau, brusseau, budreau, buteau, cabo, campeau
+   chabot, champeau, changsho, chateau, chateaux, chenault, cointreau, comeau
+   comeaux, compeau, cousteau, crepeau, croteau, crotteau, daignault, daigneault
+   davao, davault, deboe, dedeaux, defoe, denault, deneau, deneault, devault
+   devaux, deveau, deveaux, devoe, drapeau, dubeau, dufault, dussault, dusseau
+   dusseault, enloe, enlow, enslow, escoe, escrow, facteau, faucheux, faurot
+   fauteux, favreau, fecteau, forego, forgo, fregeau, furlaud, garceau, gareau
+   garneau, gaudreau, gauthreaux, gautreau, gautreaux, gauvreau, gendreau
+   georgiou, gibeau, gibeault, giraud, goudeau, goudreau, groleau, guilbault
+   guilbeau, guilbeault, guilbeaux, guillot, hello, hurteau, hwang-ho, inco
+   inlow, inscoe, jacquot, jandreau, jarreau, kayo, kowtow(2), labeau, lafoe
+   lambreau, lareau, laveau, lebeau, lebow, ledlow, legault, leleux, lettau
+   lheureux, lienau, lozeau, malveaux, manseau, marceau, marceaux, margaux
+   mayeux, michaud, michaux, micheaux, migneault, mineau, miro(2), monceaux
+   mongeau, monroe, moreau, morneau, morneault, mousseau, munro, nadeau, nedeau
+   neveau, nouveau, outgrow, papo, pernod, perot, perreault, peugeot, pineau
+   plateau, primeau, primeaux, pruneau, rambeau, renaud, renault, reneau, rideau
+   rideaux, riendeau, rondeau, rougeau, rouleau, so-so, soileau, sterno, tableau
+   tableaux, tarot, tebeau, tetreault, thebeau, thibault, thibeau, thibeaux
+   thiebaud, thoreau, thurnau, tondreau, trudeau, truffaut, turbot, ungo, uno
+   valleau, van-gogh, veilleux, viau, vieau, vienneau, vigneau, vigneault
+
+3: apropos, eeo, imo(2), ivo(2), overflow(2), pinsoneault(2), taekwondo
+   tallyho, theriault, therriault, tourtelot(2), tyo(2), undergo
+
+4: celo(3)
+
+6: genego(3)
+
+RHYME> Finding perfect rhymes for last...
+1: assed, ast, bast, blast, cast, caste, classed, fast, gassed, gast, glassed
+   grassed, hast, kast, last, massed, mast, nast, passed, past, rast, vast
+
+2: aghast, amassed, contrast(2), harassed, lambaste, miscast, precast, recast
+   repast, surpassed
+
+3: unsurpassed
+
+Finding perfect rhymes for last(2)...
+1: aust, crossed, frost, glossed, last(2), lost, maust, tossed, yoest(2)
+
+2: accost, defrost, embossed, exhaust, lacoste
+
+Finding perfect rhymes for last(3)...
+1: ass, bass, basse, blass, bras, brass, cas, cass, chasse, class, crass, das
+   dass, fahs, fass, gas, gass, glas, glass, gras, grass, grasse, hass, jass
+   kass, klas, klass, kras, krass, lass, last(3), mass, mass., masse, nass, pass
+   pasts(3), plas, plass, plasse, ras, sas, sass, sasse, tass, vass, yass
+
+2: alas, alsace(2), amass, contrasts(6), depass, forecasts(5), harass, impasse
+   lambastes(5), morass, repass, surpass, umass, vanasse
+
+3: middle-class
+
+RHYME> Finding perfect rhymes for leave...
+1: biev, breve, cleave, cleve, eave, eve, gleave, greave, greve, grieve, heave
+   kleve, leave, leve, meave, naeve, neave, neve, peeve, reave, reeve, scheve
+   shreeve, shreve, sleeve, steve, stieve, vive, we've, weave, yves
+
+2: achieve, aggrieve, aleve, aviv, believe, bereave, conceive, deceive, geneve
+   laneve, mccleave, naive, perceive, rajiv, receive, relieve, reprieve
+   retrieve, sanjiv, vancleve
+
+3: disbelieve, interleave, interweave, maharive, misconceive, misperceive
+   preconceive, tel-aviv
+
+RHYME> Finding perfect rhymes for let...
+1: bet, bett, bret, brett, chet, debt, et, fett, fette, flett, fret, frett
+   get, goette, hett, jet, jett, jette, jfet, kett, klett, let, lett, met, mette
+   net, nett, nyet, pet, pett, piet(2), plett, pret, ret, rhett, set, sette
+   smet, stet, sweat, swett, tet, tete, threat, vet, vette, wet, whet, yet, yett
+
+2: abbett, abet, anette, annett, annette, anstett, arlette, arnett, arnette
+   arquette, audet, audette, babette, barbette, barnett, barnette, barrette
+   baskette, bassette, beaudet, beaudette, beget, bennette, bequette, berlet
+   bernet, beset, bessette, binette, bissette, blanchette, bonnette, boulet
+   boulette, bourget, bourret, bousquet, boyette, bramlette, bresette, bressette
+   brevet, brissette, brossette, brouillet, brouillette, brunet, brunette
+   brusett, brusette, bruyette, burchette, burdette, burnett, burnette, cadet
+   cartrette, cassette, chalmette, charette, chelette, chenette, chevette
+   chevrette, choquette, clarette, claudet, claudette, clavette, colette
+   collette, corette, cornet, cornette, corvette, cosette, cossette, diskette
+   dorette, doucet, doucette, duet, duquette, durette, ellette, faucette
+   fayette, fisette, fleurette, follette, forget, forgette, fournet, fradette
+   frechette, fredette, frenette, furlett, garnette, garrette, gaudet, gaudette
+   gazette, gelette, georgette, gillette, godette, goulet, goulette, goyette
+   gravette, guenette, guerette, guerrette, guillet, guillette, guilmette
+   gullette, guyett, guyette, gwinnett, hachette, hugette, hughette, hulette
+   idette, inglett, irette, irvette, janette, jeanerette, jeanette, jeannette
+   jennette, jenrette, joette, jolette, josette, jouret(2), junette, laurette
+   lavette, legette, leggette, lerette, linette, lirette, lisette, lorette
+   louisette, lovette, lucette, luquette, lurette, lynette, maillet, majette
+   mallette, manette, marette, margette, marlette, marquette, marzette, mcnett
+   midgette, midyett, midyette, millette, minette, monette, myette, nanette
+   nellette, ninette, niquette, nolette, nonjet, octet, odette, offset, ornette
+   ouimet, ouimette, ovett, pagette, paquette, parlette, paulette, payette
+   pichette, pierette, pinette, pipette, piquette, poquette, preset, prevette
+   privette, pruette, quartet, quellette, quintet, racette, regret, reset
+   revette, rillette, ringuette, rivette, rochette, rockette, rolette, rollet
+   rosette, roulette, rowlette, sarchet, sarette, sextet, stinnette, surette
+   surrette, susette, suzette, tibet, touchet, touchette, tourette, trivette
+   umphlett, unmet, unset, upset, vallette, vedette, veillette, vermette
+   verrette, viet, vignette, villette, wernette, willette, wilmette, wynette
+   yevette, yvette
+
+3: anisette, antoinette, baronet(2), bernadette, calumet, cigarette, clarinet
+   coronet, cullinet, dancanet, deseret, falconet, flageolet, galudet, henriette
+   intermet, juliette, kitchenette, lafayette, lafeyette, larroquette
+   luncheonette, mariette, minaret, minuet, nicolet, nicolette, olivette
+   pinochet(2), pirouette, silhouette, sobriquet(2), statuette, suffragette
+   tagamet, violett(2), violette, viverette, willamette(2)
+
+4: cabriolet(2), laviolette
+
+RHYME> Finding perfect rhymes for make...
+1: ache, ake, bake, blake, brake, break, cake, dake, drake, fake, flake, haik
+   hake, jacque, jake, lake, make, naik, paik, pake, plake, quake, rake, sake
+   schake, schlake, schnake, schwake, shaik, shaikh, shake, shrake, snake, spake
+   stake, steak, take, wake, yake
+
+2: awake, forsake, mistake, opaque, partake, remake, retake
+
+RHYME> Finding perfect rhymes for many...
+2: any, behney, beni, benney, bennie, benny, clenney, denney, dennie, denny
+   fenney, freni, glennie, glenny, gwennie, heney, henie, henne(2), henney
+   jenney, jenni, jennie, jenny, kenney, kenny, lennie, lenny, leny, leonie
+   many, neni, penney, pennie, penny, plenty(2), rennie, renny, seney, steny
+   sweney, tenney, tenny, twenty(2), veney
+
+3: ankeney, antennae, aveni, delbene, gisenyi, mcclenny, mckenney, mckenny
+   yevgeny
+
+4: polimeni, saraceni
+
+RHYME> Finding perfect rhymes for me...
+1: b, b., be, bea, bee, blea, brea, bree, brie, bui(2), c, c., chea, chee, cie
+   crea, cree, d, d., de, dea, dee, di, e, e., ee, fee, fi(2), flea, flee, free
+   freeh, fsi, g, g., gee, ghee, glee, gyi, he, hee, je, jee, ji, jie, kea, kee
+   key, khe, ki, klee, knee, kyi, lea, lee, leigh, li, lxi, me, mea, mee, mi, ne
+   nee, nghi, nie, oui, p, p., pea, peay, pee, plea, pre, pree, pri(2), prix, qi
+   quai, quay, qui, re(2), rea, ree, reeh, rhee, schlee, schlie, schnee, sci
+   sea, see, she, shi, shieh, shih, shri, si, sie, sieh, ski, slee, smee, snee
+   spie, spree, sri, sze, t, t., te, tea, tee, the(2), thee, thi, three, ti
+   tree, tse, v, v., ve, vee, vi(2), we, wee, wiehe, xi, xie, ye, yee, yi, yie
+   z, z., ze, zea, zee
+
+2: ab(2), abee, ac, achee, acree, adee, agree, akey, albee, alee, allee
+   andree, askey, baldree, banshee, beaudry, bibee, bibi, bouchey, bouie, bouley
+   bresee, bt, buie, c3, capri(2), cat-3, cc, cd, chablis, childree, colee
+   coppee, cottee, couey, coutee, curie, debris, decree, degree, depree, depuy
+   deupree, draftee, dubree, dundee, dupee, dupree, duree, duryee, embree, emcee
+   esprit, fanguy, ferree, foree, foresee, forsee, frazee, goatee, goostree
+   goree, guerry, gurnee, gutsy, hao-chi, hardee, hembree, henri(2), ib(2)
+   id(2), indri, ip(2), janii, jaycee, jessee, keesee, kissee, labree, lavie(2)
+   legree, lessee, loree, losee, louie, lp, m3, macphee, magee, marie, markee
+   marquee, marquis, mc(2), mcbee, mccree, mcfee, mcgee, mcghee, mcghie, mckee
+   mckey, mckie, mcnee, mcphee, mcphie, mcree, mcvea, moree, mt(2), murphree
+   musee, nabil, nestle(2), ot(2), partee, pattee, pawnee, petree, pettee
+   piercey, piggee, pingree, portee, pouncy, ranee, ravi, rb, rippee, rupee
+   se(3), sebree, sheree, shippee, sightsee, smithee, swanee, sze-di, tangqui
+   tb, thierry, trainee, trustee, tv, tyree, vendee, whoopee, withee, yangtze
+   ye-yi, yippee, youree, yuichi
+
+3: abductee, absentee, abt(2), addressee, adoptee, adoree, amc(2), amputee
+   apc, appointee, atp, aujourd'hui, bbc, benami, bourgeoisie, boy-ar-dee
+   cablec(2), cac(2), cod(2), comiskey, conferee, cxc, cyb(2), dauphinee, ddt
+   demaree, deportee, designee, detailee, detainee, devotee, disagree, dsv, eap
+   enlistee, enrollee, escapee, fatheree, fop(2), franchisee, ged(2), guarani
+   guarantee, guaranty, gymboree, hammontree, hardegree, hardigree, hohensee
+   honoree, inductee, internee, jubilee(2), licensee, lsd, ltd(2), lunati
+   mallonee, mckelvie, mit, mitcheltree, mme(2), mpg, nic, njt, nominee, oad
+   ocheltree, odp, ofc, oversea, parolee, potpourri, ratterree, referee
+   repartee, resignee, retiree, returnee, rosalee, rosemarie, satterlee, sep(2)
+   signori(2), st_marie, syp(2), tenn, tennessee, t_a_c, undersea, valoree
+   waikiki, woodmansee
+
+4: geac(2), hnat(4), interviewee, irit(2), irve(2), kagarlitsky, knbc, lapd
+   nyet(2), u_s_m_c, ziad(2)
+
+5: awb(2), cacld(2), rrrot, sffed(3)
+
+RHYME> Finding perfect rhymes for mouth...
+1: louth, mouth, south, strouth
+
+2: mclouth
+
+RHYME> Finding perfect rhymes for my...
+1: ai, ay(2), aye, bae, bi, bligh, bly, blye, brye, buy, by, bye, cai, chae
+   chai, chi, cry, crye, cy, dai, di(2), die, dry, drye, dye, eye, fae, fi, fly
+   flye, frei, fry, frye, fye, gae, guy, heye, hi, high, hy, i, i., jai, kai
+   keye, kwai, lai, lie, ly, lye, mai, mei, my, ngai, nie(2), nigh, nye, pae
+   phi, phy, pi, pie, ply, pri, pry, psi, pty, pye, rye, sai, shai, shy, sigh
+   sky, sligh, sly, slye, spry, spy, sty, sy, tae(2), tai, thai, thigh, thy, tie
+   tri, try, tsai, ty, tye, vi, vie, vy, wai, why, wry, wrye, wye, y, y., yie(2)
+
+2: akai, alai, ally(2), altai, apply, awry, bandai, barkai, belie, bely
+   bonsai, brunei, bye-bye, chiengmai, chubais, chugai, comply, decry, defy
+   deny, descry, dongmei, dubai, dupuy, good-bye, goodbye, hereby, hi-fi, imai
+   imply, iwai, july, kanai, kansai, lahaie(2), mcfly, mihai, mistry(2), murai
+   nankai, nearby, rely, reply, retry, shanghai, standby, sundai, supply, switaj
+   thereby, tokai, untie, uy(2), versailles, whereby, xuemei, zhuhai
+
+3: dui, gyi(2), kyi(2), lxi(2), misapply, overfly, private-eye, resupply
+   sci(2), semidry, sri(2), underlie, underly
+
+4: cspi, isty(2), oversupply, wy(2)
+
+5: dwi
+
+6: adl-tabatabai
+
+RHYME> Finding perfect rhymes for net...
+1: bet, bett, bret, brett, chet, debt, et, fett, fette, flett, fret, frett
+   get, goette, hett, jet, jett, jette, jfet, kett, klett, let, lett, met, mette
+   net, nett, nyet, pet, pett, piet(2), plett, pret, ret, rhett, set, sette
+   smet, stet, sweat, swett, tet, tete, threat, vet, vette, wet, whet, yet, yett
+
+2: abbett, abet, anette, annett, annette, anstett, arlette, arnett, arnette
+   arquette, audet, audette, babette, barbette, barnett, barnette, barrette
+   baskette, bassette, beaudet, beaudette, beget, bennette, bequette, berlet
+   bernet, beset, bessette, binette, bissette, blanchette, bonnette, boulet
+   boulette, bourget, bourret, bousquet, boyette, bramlette, bresette, bressette
+   brevet, brissette, brossette, brouillet, brouillette, brunet, brunette
+   brusett, brusette, bruyette, burchette, burdette, burnett, burnette, cadet
+   cartrette, cassette, chalmette, charette, chelette, chenette, chevette
+   chevrette, choquette, clarette, claudet, claudette, clavette, colette
+   collette, corette, cornet, cornette, corvette, cosette, cossette, diskette
+   dorette, doucet, doucette, duet, duquette, durette, ellette, faucette
+   fayette, fisette, fleurette, follette, forget, forgette, fournet, fradette
+   frechette, fredette, frenette, furlett, garnette, garrette, gaudet, gaudette
+   gazette, gelette, georgette, gillette, godette, goulet, goulette, goyette
+   gravette, guenette, guerette, guerrette, guillet, guillette, guilmette
+   gullette, guyett, guyette, gwinnett, hachette, hugette, hughette, hulette
+   idette, inglett, irette, irvette, janette, jeanerette, jeanette, jeannette
+   jennette, jenrette, joette, jolette, josette, jouret(2), junette, laurette
+   lavette, legette, leggette, lerette, linette, lirette, lisette, lorette
+   louisette, lovette, lucette, luquette, lurette, lynette, maillet, majette
+   mallette, manette, marette, margette, marlette, marquette, marzette, mcnett
+   midgette, midyett, midyette, millette, minette, monette, myette, nanette
+   nellette, ninette, niquette, nolette, nonjet, octet, odette, offset, ornette
+   ouimet, ouimette, ovett, pagette, paquette, parlette, paulette, payette
+   pichette, pierette, pinette, pipette, piquette, poquette, preset, prevette
+   privette, pruette, quartet, quellette, quintet, racette, regret, reset
+   revette, rillette, ringuette, rivette, rochette, rockette, rolette, rollet
+   rosette, roulette, rowlette, sarchet, sarette, sextet, stinnette, surette
+   surrette, susette, suzette, tibet, touchet, touchette, tourette, trivette
+   umphlett, unmet, unset, upset, vallette, vedette, veillette, vermette
+   verrette, viet, vignette, villette, wernette, willette, wilmette, wynette
+   yevette, yvette
+
+3: anisette, antoinette, baronet(2), bernadette, calumet, cigarette, clarinet
+   coronet, cullinet, dancanet, deseret, falconet, flageolet, galudet, henriette
+   intermet, juliette, kitchenette, lafayette, lafeyette, larroquette
+   luncheonette, mariette, minaret, minuet, nicolet, nicolette, olivette
+   pinochet(2), pirouette, silhouette, sobriquet(2), statuette, suffragette
+   tagamet, violett(2), violette, viverette, willamette(2)
+
+4: cabriolet(2), laviolette
+
+RHYME> Finding perfect rhymes for not...
+1: baht, bhatt(2), blot, bott, bought, brott, caught, clot, clott, cot, cott
+   dot, dott, flott, got, gott, hot, hott, jot, khat, knot, knott, kot, kott
+   lat, lot, lott, lotte, mott, motte, not, nott, notte, ott, otte, plot, plott
+   pot, pott, rot, rott, rrrot(3), schaadt, schlott, schott, schrodt, scot
+   scott, shot, shott, slot, slott, spot, sprott, squat, staat, stott, swat
+   szot, szott, tot, trot, trott, voght, watt, yacht, yott
+
+2: abott, allot, alot, ascott, batat, boitnott, cannot(2), demott, forgot
+   kiryat(2), labatt(2), lamott, malott, marcott, perrott, qiryat, refaat, sadat
+   surat, vancott
+
+3: konsultat
+
+RHYME> Finding perfect rhymes for of...
+1: dove, glove, gov, love, of, shove
+
+2: above, belove, deneuve, labove, o'glove, thereof, vanhove
+
+RHYME> Finding perfect rhymes for on...
+1: bon, bonn, bonne, bronn, caan, caen(2), chon, con, conn, conn., cron, daane
+   dahn(2), dohn, don, donn, dwan, frohn, gohn, haan, hahn, han, hohn, hon, honn
+   hron, huan, hwan, jaan, john, jon, jonn, juan, kahn, khan, kohn, kon, kron
+   kuan, kwan, kwon, lian, lohn, lon, mohn, mon(2), monn, non, on, pon, pran
+   quon, rohn, ron, ronne, schon, shon, sohn, sonn, sonne, spahn, spawn, spohn
+   swan, swann, thon, tian, tonn, tron, wan, wann, won(2), xian, xuan, yohn, yon
+   zhan
+
+2: abron, alcon, alon, amman(2), anon, antoine, aton, baran, bataan, baton
+   bhutan(2), buisson, c'mon, ceylon, chandon(2), chiffon, chuan, dejohn
+   dhaharan, dhahran, eldon, elston, evonne, fernand(2), forgone, gabon, gaitan
+   galvan, golan(2), guinan, hassan, ilan, iran, javan, johan, juran, kahan
+   koran, lat-lon, lujan, mak-kwan, maran, mcconn, milan, nilan, nippon, ocon
+   odds-on, oman, oran, orran, pousson, put-on, run-on, saigon, salon, san-juan
+   sichuan, slip-on, sorbonne, stephane, st_john, taiwan, tehran, toran, try-on
+   upon, vivyan, walk-on, yaohan, yirng-an, yuan, yvonne
+
+3: almazan, balaban, cadogan, christiane, christianne, dainippon, denouement
+   goings-on, guei-yuan, irelan, kazakhstan, moldovan, moseley-braun, nithuekan
+   perignon(2), rapprochement, sanjuan, teheran, thereupon, villagran, whereupon
+
+4: azerbaijan, napolitan, santistevan, srinivasan
+
+RHYME> Finding perfect rhymes for one...
+1: bruhn, brun, brunn, bun, bunn, byun, chun, chunn, done, donne, dun, dunn
+   dunne, fun, gruhn, grun, gun, gunn, hon(2), huhn, hun, hunn, hyun(2), in, jun
+   kuhne, kun, luhn, lun, lunn, mun, munn, none, nuhn, nun, nunn, one, pun, run
+   runt, shun, son, spun, stun, sun, thrun, thun, ton, tonne, un, won, youn, yun
+
+2: begun, c1, homerun, lajeune, m1, mcfun, mcmunn, outdone, outrun, redone
+   rerun, undone
+
+3: overdone, puget-1, simeone, terrebonne(2)
+
+RHYME> Finding perfect rhymes for open...
+2: copen, koeppen, open
+
+3: reopen
+
+RHYME> Finding perfect rhymes for pick...
+1: bic, bick, blick, bric, brick, bryk, chick, click, crick, cwik, dic, dick
+   dicke, dyk, dzik, fick, ficke, flick, frick, fricke, gick, glick, hick, kick
+   klick, knick, krick, kwik, lick, mc, mic, mick, micke, nic(2), nick, nik, pic
+   pick, pik, prick, quick, quik, ric, rick, ricke, schick, schlick, schmick
+   schnick, schrick, schtick, shick, shtick, sic, sick, slick, smick, spic
+   sprick, stick, strick, swick, thick, tic, tick, trick, vic, vick, vik, wick
+   wicke, wik, wyk, zick, zwick
+
+2: afflik, handpick, nonstick, vandyck, vanwyck, vanwyk
+
+4: ostpolitik, realpolitik
+
+RHYME> Finding perfect rhymes for picks...
+1: bix, bricks, brix, chicks, clicks, cliques, dick's, dickes, dicks, dix
+   fickes, fix, flicks, fricks, frix, hicks, hix, ickes, kicks, knicks, licks
+   mix, nick's, nicks, nikk's, nix, nyx, picks, pix, pricks, rick's, ricks, rix
+   six, slicks, sticks, styx, ticks, tics, tricks, vic's, vicks, wickes, wicks
+   wix
+
+2: admix, affix(2), conflicts(3), inflicts(2), predicts(3), prolix(2)
+   transfix
+
+3: intermix
+
+RHYME> Finding perfect rhymes for plague...
+1: baig, begue, craig, flaig, hague, haig, plague, sprague, vague
+
+2: maciag, mccague, mccaig, mckaig, mcquaig, mctague
+
+RHYME> Finding perfect rhymes for plenty...
+2: plenty, twenty, venti
+
+3: aplenty, chimenti, corrente, correnti, girgenti, lucente, mcentee(2)
+   parente, parenti, sorrenti, valente, valenti, vicente, vincente, vincenti
+
+4: benavente, cognoscenti, innocenti, piacente, pizzimenti
+
+5: badalamenti
+
+Finding perfect rhymes for plenty(2)...
+2: any, behney, beni, benney, bennie, benny, clenney, denney, dennie, denny
+   fenney, freni, glennie, glenny, gwennie, heney, henie, henne(2), henney
+   jenney, jenni, jennie, jenny, kenney, kenny, lennie, lenny, leny, leonie
+   many, neni, penney, pennie, penny, plenty(2), rennie, renny, seney, steny
+   sweney, tenney, tenny, twenty(2), veney
+
+3: ankeney, antennae, aveni, delbene, gisenyi, mcclenny, mckenney, mckenny
+   yevgeny
+
+4: polimeni, saraceni
+
+RHYME> Finding perfect rhymes for so...
+1: au, aux, beau, beaux, bleau, blow, blowe, bo, boe, boeh, bow(2), bowe
+   breau, breault, breaux, bro, broe, browe, chau, cho, choe, cloe, clow, co
+   co., coe, cro, crow, crowe, dau, doe, doh, dough, eau, flo, floe, flow, flowe
+   foe, fro, froh, gau, glo, gloe, glow, go, goe, gogh, goh, gro, groh, grow
+   growe, ho, hoe, hoh, jo, joe, joh, know, ko, koh, krogh, kroh, krowe, kyo, lo
+   loe, loew(2), loewe(2), loh, low, lowe, luo, m'bow, mau, meaux, mo, moe, mow
+   nau, neault, ngo, no, noe, noh, o, o', o., oh, ow, owe, plough(2), po, poe
+   poh, pro, queau, quo, reaux, rheault, rho, ro, roe, roh, rohe, row, rowe
+   schau, sew, sgro, show, sloe, slow, snow, snowe, so, sow(2), stow, stowe
+   stroh, strow, tho, though, throw, toe, tow, towe, trow, tso, vo, whoa, wo
+   woe, wroe, yau, yo, yoe, yoh, zoh
+
+2: aglow, ago, although, arnaud, arnault, badeau, badeaux, barbeau, beaudreau
+   bebeau, begnaud, belleau, below, bestow, bibeau, bibeault, bio, biscoe
+   blincoe, boileau, boisseau, bonneau, bordeau, bordeaux, boudreau, boudreaux
+   bourbeau, bourdeau, bourgault, brancheau, brasseaux, brazeau, brideau
+   brosseau, brousseau, bruneau, brusseau, budreau, buteau, cabo, campeau
+   chabot, champeau, changsho, chateau, chateaux, chenault, cointreau, comeau
+   comeaux, compeau, cousteau, crepeau, croteau, crotteau, daignault, daigneault
+   davao, davault, deboe, dedeaux, defoe, denault, deneau, deneault, devault
+   devaux, deveau, deveaux, devoe, drapeau, dubeau, dufault, dussault, dusseau
+   dusseault, enloe, enlow, enslow, escoe, escrow, facteau, faucheux, faurot
+   fauteux, favreau, fecteau, forego, forgo, fregeau, furlaud, garceau, gareau
+   garneau, gaudreau, gauthreaux, gautreau, gautreaux, gauvreau, gendreau
+   georgiou, gibeau, gibeault, giraud, goudeau, goudreau, groleau, guilbault
+   guilbeau, guilbeault, guilbeaux, guillot, hello, hurteau, hwang-ho, inco
+   inlow, inscoe, jacquot, jandreau, jarreau, kayo, kowtow(2), labeau, lafoe
+   lambreau, lareau, laveau, lebeau, lebow, ledlow, legault, leleux, lettau
+   lheureux, lienau, lozeau, malveaux, manseau, marceau, marceaux, margaux
+   mayeux, michaud, michaux, micheaux, migneault, mineau, miro(2), monceaux
+   mongeau, monroe, moreau, morneau, morneault, mousseau, munro, nadeau, nedeau
+   neveau, nouveau, outgrow, papo, pernod, perot, perreault, peugeot, pineau
+   plateau, primeau, primeaux, pruneau, rambeau, renaud, renault, reneau, rideau
+   rideaux, riendeau, rondeau, rougeau, rouleau, so-so, soileau, sterno, tableau
+   tableaux, tarot, tebeau, tetreault, thebeau, thibault, thibeau, thibeaux
+   thiebaud, thoreau, thurnau, tondreau, trudeau, truffaut, turbot, ungo, uno
+   valleau, van-gogh, veilleux, viau, vieau, vienneau, vigneau, vigneault
+
+3: apropos, eeo, imo(2), ivo(2), overflow(2), pinsoneault(2), taekwondo
+   tallyho, theriault, therriault, tourtelot(2), tyo(2), undergo
+
+4: celo(3)
+
+6: genego(3)
+
+RHYME> Finding perfect rhymes for start...
+1: art, bart, cart, carte, chart, dart, dartt, hardt, hart, harte, hartt
+   heart, mahrt, mart, marte, part, parte, schardt, smart, smartt, start, tart
+   tarte, tartt
+
+2: ahart, apart, bossart, depart, descartes, goulart, impart, k-mart, kabart
+   mccart, mccartt, restart
+
+RHYME> Finding perfect rhymes for stay...
+1: a(2), a., ae, ay, bay, baye, bayh, bey, blay, bley, brae, bray, brey
+   c'est(2), cay, che, clay, cray, dae, day, daye, de(2), dey, dray, drey, fay
+   faye, fe, fey, flay, fray, frey, gay, gaye, gray, graye, grey, guay, gway
+   haigh, hay, haye, hey, hwe, j, j., jae, jay, jaye, k, k., kay, kaye, khe(2)
+   klay, kley, kray, krey, lait, lay, laye, lei, ley, leyh, mae, may, maye
+   mei(2), mey, nay, ne(4), neigh, nej, ney, pay, paye, pei, play, pray, prey
+   quai(2), quay(2), quaye, rae, ray, raye, re, reay, rey, say, saye, schey
+   schley, se(2), seay, shay, shea, slay, sleigh, smay, snay, spey, spray, stay
+   stray, strey, sway, sze(2), tae, tay, they, tray, trey, vey, way, waye, wei
+   weigh, wey, whey, wray, wy, yay, yea
+
+2: abbe(2), aday, aggrey, aigner, allais, allay, anway, array, asay, astray
+   away, b'nai, b-j, ballet, banpais, beauvais, belay, beret(2), bernay, betray
+   bombay, boulais, boulay, bouquet, buffet, ca(2), cache(2), cafe, calais
+   callais, calvey, carre(2), cathay, chalet(2), ciskei, cliche, coday, convey
+   crochet, croquet, d'orsay, da(2), decay, defray, dekay, delay, delray, devey
+   dismay, display, dk, donais, dorais, dossier, dovey, dumais, dupay, ek(2)
+   essay, filet, fillet, francais, ga(2), galle(2), gerais, gervais, ha(2)
+   halfway, hefei, hervey, hevey, hongwei, hooray, hurray, ilhae, imlay, jaquay
+   jose, jouret, kamei(2), langlais, levey, lurvey, mackay, maclay, macrae
+   maltais, manet, marais, marquai, mcbay, mccay, mcclay, mccrae, mccray, mccrea
+   mcgray, mckay, mclay, mcnay, mcquay, mcrae, mcray, mcshea, mcstay, mcvay
+   mcveigh, mcvey, millay, mobay, monet, morais, moray, moutray, mulvey, nihei
+   nikkei, nisei, nissei, o'dea, o'shea, obey, oj, ok, okay, olay, ole(2), orsay
+   palais, parquet, passe, per-se, pevey, porcher(2), portray, prepay, puree
+   purvey, rene, renee, repay, replay, resnais, risque, saute, sergei, servais
+   sevey, shinsei, sinay, sochet, soiree, sorbet, souffle, stupay, survey, today
+   toray, torme(2), toupee, turvey, vadnais, valet, voisey, wah-pei, zalay
+
+3: aaa, aka(2), antigay, attache, bouvier, bta, bua(2), cabaret, cabernet, cea
+   chevrolet, dak(2), deseret(2), disarray, disobey, dunlavey, ekk, faberge
+   fiance(2), intraday, ira(2), ita(2), jna, jonbenet, kkk, la-carre, lyonnais
+   mcgarvey, meservey, monterey, monterrey, overplay, overstay, perrier(2)
+   piaget, pinochet, redisplay, santa-fe, sta(2), touvier, underplay, underway
+   usa, uva(2)
+
+4: asea(2), buga(2), cabriolet, ceta(2), cluj(2), communique(2), compusa
+   foia(2), hiaa, l'espalier, naivete, noaa(2), societe, yakutakay, zepa(3)
+
+6: waga(2)
+
+RHYME> Finding perfect rhymes for sticks...
+1: bix, bricks, brix, chicks, clicks, cliques, dick's, dickes, dicks, dix
+   fickes, fix, flicks, fricks, frix, hicks, hix, ickes, kicks, knicks, licks
+   mix, nick's, nicks, nikk's, nix, nyx, picks, pix, pricks, rick's, ricks, rix
+   six, slicks, sticks, styx, ticks, tics, tricks, vic's, vicks, wickes, wicks
+   wix
+
+2: admix, affix(2), conflicts(3), inflicts(2), predicts(3), prolix(2)
+   transfix
+
+3: intermix
+
+RHYME> Finding perfect rhymes for swallow...
+2: calo, dalo, follow, hollow, mallo, malo, mollo, pollo, rollo, salo, solow
+   strollo, swallow, wallo, wallow, zollo
+
+3: apollo, carballo, carollo, cefalo, depalo, dzialo, figallo, gonzalo
+   khumalo, lovallo, manalo, margalo, metallo, musalo, pangallo, ruffalo
+   vassallo
+
+4: arebalo, arevalo, garafalo, garofalo
+
+RHYME> Finding perfect rhymes for swarm...
+1: dorm, form, norm, orme, schwarm, storm, swarm, torme, warm
+
+2: conform, deform, inform, lukewarm, perform, reform, transform
+
+3: disinform, misinform
+
+RHYME> Finding perfect rhymes for tend...
+1: bend, blend, end, ende, fend, friend, lend, mend, mende, pend, penned, rend
+   rende, send, spend, tend, trend, wend, wende
+
+2: abend(2), addend, amend, append, arend, ascend, attend, befriend, commend
+   contend, defend, depend, descend, distend, expend, extend, impend, intend
+   misspend, offend, portend, pretend, relend, suspend, transcend, unbend
+   yearend
+
+3: apprehend, comprehend, condescend, recommend, reoffend
+
+4: overextend
+
+RHYME> Finding perfect rhymes for the...
+1: a, brugh, ca, dah, duh, huh, klugh, krugh, rugh, ruh, sta, suh, the, uh
+   uhh
+
+2: uh-huh
+
+3: depardieu
+
+Finding perfect rhymes for the(2)...
+1: b, b., be, bea, bee, blea, brea, bree, brie, bui(2), c, c., chea, chee, cie
+   crea, cree, d, d., de, dea, dee, di, e, e., ee, fee, fi(2), flea, flee, free
+   freeh, fsi, g, g., gee, ghee, glee, gyi, he, hee, je, jee, ji, jie, kea, kee
+   key, khe, ki, klee, knee, kyi, lea, lee, leigh, li, lxi, me, mea, mee, mi, ne
+   nee, nghi, nie, oui, p, p., pea, peay, pee, plea, pre, pree, pri(2), prix, qi
+   quai, quay, qui, re(2), rea, ree, reeh, rhee, schlee, schlie, schnee, sci
+   sea, see, she, shi, shieh, shih, shri, si, sie, sieh, ski, slee, smee, snee
+   spie, spree, sri, sze, t, t., te, tea, tee, the(2), thee, thi, three, ti
+   tree, tse, v, v., ve, vee, vi(2), we, wee, wiehe, xi, xie, ye, yee, yi, yie
+   z, z., ze, zea, zee
+
+2: ab(2), abee, ac, achee, acree, adee, agree, akey, albee, alee, allee
+   andree, askey, baldree, banshee, beaudry, bibee, bibi, bouchey, bouie, bouley
+   bresee, bt, buie, c3, capri(2), cat-3, cc, cd, chablis, childree, colee
+   coppee, cottee, couey, coutee, curie, debris, decree, degree, depree, depuy
+   deupree, draftee, dubree, dundee, dupee, dupree, duree, duryee, embree, emcee
+   esprit, fanguy, ferree, foree, foresee, forsee, frazee, goatee, goostree
+   goree, guerry, gurnee, gutsy, hao-chi, hardee, hembree, henri(2), ib(2)
+   id(2), indri, ip(2), janii, jaycee, jessee, keesee, kissee, labree, lavie(2)
+   legree, lessee, loree, losee, louie, lp, m3, macphee, magee, marie, markee
+   marquee, marquis, mc(2), mcbee, mccree, mcfee, mcgee, mcghee, mcghie, mckee
+   mckey, mckie, mcnee, mcphee, mcphie, mcree, mcvea, moree, mt(2), murphree
+   musee, nabil, nestle(2), ot(2), partee, pattee, pawnee, petree, pettee
+   piercey, piggee, pingree, portee, pouncy, ranee, ravi, rb, rippee, rupee
+   se(3), sebree, sheree, shippee, sightsee, smithee, swanee, sze-di, tangqui
+   tb, thierry, trainee, trustee, tv, tyree, vendee, whoopee, withee, yangtze
+   ye-yi, yippee, youree, yuichi
+
+3: abductee, absentee, abt(2), addressee, adoptee, adoree, amc(2), amputee
+   apc, appointee, atp, aujourd'hui, bbc, benami, bourgeoisie, boy-ar-dee
+   cablec(2), cac(2), cod(2), comiskey, conferee, cxc, cyb(2), dauphinee, ddt
+   demaree, deportee, designee, detailee, detainee, devotee, disagree, dsv, eap
+   enlistee, enrollee, escapee, fatheree, fop(2), franchisee, ged(2), guarani
+   guarantee, guaranty, gymboree, hammontree, hardegree, hardigree, hohensee
+   honoree, inductee, internee, jubilee(2), licensee, lsd, ltd(2), lunati
+   mallonee, mckelvie, mit, mitcheltree, mme(2), mpg, nic, njt, nominee, oad
+   ocheltree, odp, ofc, oversea, parolee, potpourri, ratterree, referee
+   repartee, resignee, retiree, returnee, rosalee, rosemarie, satterlee, sep(2)
+   signori(2), st_marie, syp(2), tenn, tennessee, t_a_c, undersea, valoree
+   waikiki, woodmansee
+
+4: geac(2), hnat(4), interviewee, irit(2), irve(2), kagarlitsky, knbc, lapd
+   nyet(2), u_s_m_c, ziad(2)
+
+5: awb(2), cacld(2), rrrot, sffed(3)
+
+RHYME> Finding perfect rhymes for them...
+1: behm, bem, blehm, brehm, brem, chem, clem, dehm, demme, em, emme, femme
+   gehm, gem, gemme, hem, hemm, hemme, jem, kehm, kem, khem, klem, klemm, klemme
+   lem, lemm, m, m., prem, rehm, rem, remme, rhem, schemm, schwemm, stem, stemm
+   swem, temme, them
+
+2: am(2), condemn, fm, p.m, pm
+
+3: cardizem, imm, mam(2), mgm, pgm, ppm, rpm
+
+4: difm(2), wm(2)
+
+RHYME> Finding perfect rhymes for there...
+1: aer, air, ayre, baehr(2), baer, bahr, bair, bare, bear, behr, blair, blare
+   caire, care, chair, cher, clair, claire, clare, dare, darr, derr, dreher, err
+   eyre, fair, faire, fare, fehr, fer(2), ferre, flair, flare, fraire, freyre
+   gair, gare, gehr, glare, guerre, hair, haire, hairr, hare, hehr, heir, herr
+   herre, kahre, kehr, khmer, klare, knerr, kreher, lair, lare, lehr, mair
+   maire, mare, mehr, mer, nair, ne'er, pair, pare, pear, phair, plair, prayer
+   rare, reher, sare, sayre, scare, schehr, scherr, sehr, serr, share, sherr
+   skare, snare, spare, square, stair, stare, stehr, sterr, swear, tear
+   terre(2), their, there, they're, traer, ware, wear, wehr, werre, where, zehr
+
+2: abair, adair, adaire, addair, affair, alair, allaire, astaire, auclair
+   aware, bancaire, beaufrere, belair, belaire, beware, bezaire, boisclair
+   coderre, comair, compare, convair, corriere, declare, delair, despair
+   dispair, ensnare, forswear, frontiere, geniere, gisclair, glenayre, impair
+   kenmare, laware, leclaire, lefrere, lemaire, macnair, mcnair, midair, moliere
+   montclair, o'hare, opere, pentair, pershare, pierre, praxair, prepare, repair
+   santerre, sinclair, st_clair, st_claire, swissair, takecare, trosclair
+   unfair, voltaire, westair, whitehair
+
+3: almaguer, bellemare, billionaire, canadair, debonair, disrepair
+   doctrinaire, icelandair, javier, jeanpierre, larosiere, laterriere, maxicare
+   microware, millionaire, nationair, questionnaire, solitaire, st_pierre
+   unaware, usair
+
+4: concessionaire
+
+5: euromobiliare, multimillionaire
+
+RHYME> Finding perfect rhymes for they...
+1: a(2), a., ae, ay, bay, baye, bayh, bey, blay, bley, brae, bray, brey
+   c'est(2), cay, che, clay, cray, dae, day, daye, de(2), dey, dray, drey, fay
+   faye, fe, fey, flay, fray, frey, gay, gaye, gray, graye, grey, guay, gway
+   haigh, hay, haye, hey, hwe, j, j., jae, jay, jaye, k, k., kay, kaye, khe(2)
+   klay, kley, kray, krey, lait, lay, laye, lei, ley, leyh, mae, may, maye
+   mei(2), mey, nay, ne(4), neigh, nej, ney, pay, paye, pei, play, pray, prey
+   quai(2), quay(2), quaye, rae, ray, raye, re, reay, rey, say, saye, schey
+   schley, se(2), seay, shay, shea, slay, sleigh, smay, snay, spey, spray, stay
+   stray, strey, sway, sze(2), tae, tay, they, tray, trey, vey, way, waye, wei
+   weigh, wey, whey, wray, wy, yay, yea
+
+2: abbe(2), aday, aggrey, aigner, allais, allay, anway, array, asay, astray
+   away, b'nai, b-j, ballet, banpais, beauvais, belay, beret(2), bernay, betray
+   bombay, boulais, boulay, bouquet, buffet, ca(2), cache(2), cafe, calais
+   callais, calvey, carre(2), cathay, chalet(2), ciskei, cliche, coday, convey
+   crochet, croquet, d'orsay, da(2), decay, defray, dekay, delay, delray, devey
+   dismay, display, dk, donais, dorais, dossier, dovey, dumais, dupay, ek(2)
+   essay, filet, fillet, francais, ga(2), galle(2), gerais, gervais, ha(2)
+   halfway, hefei, hervey, hevey, hongwei, hooray, hurray, ilhae, imlay, jaquay
+   jose, jouret, kamei(2), langlais, levey, lurvey, mackay, maclay, macrae
+   maltais, manet, marais, marquai, mcbay, mccay, mcclay, mccrae, mccray, mccrea
+   mcgray, mckay, mclay, mcnay, mcquay, mcrae, mcray, mcshea, mcstay, mcvay
+   mcveigh, mcvey, millay, mobay, monet, morais, moray, moutray, mulvey, nihei
+   nikkei, nisei, nissei, o'dea, o'shea, obey, oj, ok, okay, olay, ole(2), orsay
+   palais, parquet, passe, per-se, pevey, porcher(2), portray, prepay, puree
+   purvey, rene, renee, repay, replay, resnais, risque, saute, sergei, servais
+   sevey, shinsei, sinay, sochet, soiree, sorbet, souffle, stupay, survey, today
+   toray, torme(2), toupee, turvey, vadnais, valet, voisey, wah-pei, zalay
+
+3: aaa, aka(2), antigay, attache, bouvier, bta, bua(2), cabaret, cabernet, cea
+   chevrolet, dak(2), deseret(2), disarray, disobey, dunlavey, ekk, faberge
+   fiance(2), intraday, ira(2), ita(2), jna, jonbenet, kkk, la-carre, lyonnais
+   mcgarvey, meservey, monterey, monterrey, overplay, overstay, perrier(2)
+   piaget, pinochet, redisplay, santa-fe, sta(2), touvier, underplay, underway
+   usa, uva(2)
+
+4: asea(2), buga(2), cabriolet, ceta(2), cluj(2), communique(2), compusa
+   foia(2), hiaa, l'espalier, naivete, noaa(2), societe, yakutakay, zepa(3)
+
+6: waga(2)
+
+RHYME> Finding perfect rhymes for things...
+1: brings, clings, dings, flings, king's, kings, kings', krings, mings, ring's
+   rings, singh's, sings, slings, spring's, springs, sting's, stings, strings
+   swings, thing's, things, things', wing's, wings, wrings
+
+2: beijing's, xiaoping's
+
+RHYME> Finding perfect rhymes for think...
+1: bink, blink, brink, chink, cinq, cinque, clink, dink, drink, finck, fincke
+   fink, finke, flink, frink, hinck, hink, inc, inc., ink, kink, klinck, klink
+   klinke, krinke, linc, linck, link, linke, lynk, minc, mink, minke, pink
+   plink, rinck, rink, rinke, schinke, schlink, shrink, sink, smink, spink
+   stink, swink, sync, think, vink, wink, zinc, zinck, zink, zinke
+
+2: rethink, unlink
+
+3: interlink
+
+RHYME> Finding perfect rhymes for this...
+1: bis, biss, bliss, brys, buice, chris, chris', chriss, cris, criss, cysts(3)
+   dis, diss, fis, fiss, flis, fliss, gris, hiss, kis, kiss, kniss, kris, kriss
+   lis, liss, lists(3), mis, miss, piss, pris, riss, risse, rys, sis, stys
+   suess, suisse, swiss, this, this', twiss, vis, wis, wiss, wyss
+
+2: abyss, amiss, assists(3), consists(3), dismiss, enlists(3), exists(3)
+   fariss, furniss, gillis, insists(3), persists(3), phariss, remiss, resists(5)
+
+3: alusuisse, preexists(3), reminisce
+
+RHYME> Finding perfect rhymes for times...
+1: chimes, climbs, climes, crime's, crimes, crymes, dime's, dimes, grimes
+   heims, himes, hymes, imes, kimes, limes, prime's, primes, rhymes, rimes
+   simes, symes, time's, times, times'
+
+2: sometimes
+
+RHYME> Finding perfect rhymes for to...
+1: beu, bleu, blew, blue, boo, breaux(2), brew, brue, chew, chiu, choo, chou
+   chu, clue, coo, cou, coup, coups(2), crew, crewe, cue, deux, dew, do, doo
+   douwe, drew, dru, du, due, ewe, few, flew, flu, flue, foo, frew, frueh, fu
+   glew, glue, gnu, goo, graue(2), grew, grewe, gu, gue, hew, hewe, hoo, hou
+   houx, hsu, hu, hue, hugh, jew, joo, ju, jue, kew, khoo, khuu, knew, koo, ku
+   kyu, leu, lew, lieu, liu, loo, lou, louw, loux, lu, lue, mew, moo, mu, new
+   nu, ooh, oooh, ou, peugh, pew, phew, phu, plew, plue, poo, pooh, pou, prew
+   pru, prue, prugh, pu, pugh, q, q., qu, que, queue, rew, rhew, rhue, rioux, ru
+   rue, schewe, schoo, schou, schue, schuh, screw, shew, shiu, shoe, shoo, shrew
+   shu, shue, siew, sioux, skew, slew, soo, spew, stew, strew, stu, stuewe, su
+   sue, tew, thew, threw, through, thru, thuy, to, too, treu, trew, trieu, true
+   tu, tue, two, u, uwe, view, vu, vue, whew, who, woo, wu, xu, xue, yew, yoo
+   you, yu, yue, zhou, zhu, zoo, zue
+
+2: abou, abreu, accrue, adieu, ado, ague, anew, askew, babu, baku, ballou
+   bamboo, bellew, c2, canoe, cat-2, cebu, chaloux, champoux, chengdu, construe
+   corbu, coutu, deblois, debut, decou, depew, depue, egnew, ensue, eschew
+   fauroux, fitzhugh, fondue, fourtou, geroux, gignoux, giroux, heroux, herscu
+   igou, imbue, into, jammu, jamu, kazoo, ketou, kwangju, laroux, larue, ledoux
+   lemieux, leroux, liou, m2, mailloux, marcou, marcoux, marrou, mccue, mcgrew
+   mcgue, mchugh, mcknew, mcnew, meiyuh, miscue, neveu, outdo, outgrew, perdue
+   peru, purdue, pursue, ragu, ramu, ratu, redo, renew, reto, review, revue
+   richoux, seydoux, shampoo, shamu, subdue, taboo, tattoo, tatu, theroux
+   tien-fu, tieu, tobu, toyoo, troyu, true-view, undo, undue, unglue, untrue
+   urdu, vanlue, wahoo, wenzhou, whay-yu, withdrew, zanu, zungu
+
+3: belyeu, benhamou, byu, depardieu(2), hitherto, iou, isu(2), kangaroo
+   karatsu, katmandu, komatsu, lhommedieu, misconstrue, overdo, overdue
+   overthrew, pas-de-deux, suu, timbuktu
+
+4: hullabaloo, kalamazoo, long-overdue
+
+5: dfw
+
+RHYME> Finding perfect rhymes for trying...
+2: buying, crying, drying, dyeing, dying, eyeing, eying, flying, frying
+   guying, lying, plying, prying, shying, sighing, spying, tieing, trying, tying
+   vying
+
+3: allying(2), applying, belying, complying, decrying, defying, denying
+   implying, relying, replying, retrying, supplying, undying
+
+4: misapplying, overflying, overlying, semidrying, underlying
+
+5: indemnifying
+
+Finding perfect rhymes for trying(2)...
+1: trying(2)
+
+RHYME> Finding perfect rhymes for up...
+1: bupp, chupp, cup, cupp, grupp, hupp, knupp, krupp, pup, rupp, ruppe, schlup
+   schrupp, schupp, shupp, strupp, stupp, sup, trupp, up, upp, yup
+
+2: lay-up, push-up, start-up
+
+RHYME> Finding perfect rhymes for upon...
+1: bon, bonn, bonne, bronn, caan, caen(2), chon, con, conn, conn., cron, daane
+   dahn(2), dohn, don, donn, dwan, frohn, gohn, haan, hahn, han, hohn, hon, honn
+   hron, huan, hwan, jaan, john, jon, jonn, juan, kahn, khan, kohn, kon, kron
+   kuan, kwan, kwon, lian, lohn, lon, mohn, mon(2), monn, non, on, pon, pran
+   quon, rohn, ron, ronne, schon, shon, sohn, sonn, sonne, spahn, spawn, spohn
+   swan, swann, thon, tian, tonn, tron, wan, wann, won(2), xian, xuan, yohn, yon
+   zhan
+
+2: abron, alcon, alon, amman(2), anon, antoine, aton, baran, bataan, baton
+   bhutan(2), buisson, c'mon, ceylon, chandon(2), chiffon, chuan, dejohn
+   dhaharan, dhahran, eldon, elston, evonne, fernand(2), forgone, gabon, gaitan
+   galvan, golan(2), guinan, hassan, ilan, iran, javan, johan, juran, kahan
+   koran, lat-lon, lujan, mak-kwan, maran, mcconn, milan, nilan, nippon, ocon
+   odds-on, oman, oran, orran, pousson, put-on, run-on, saigon, salon, san-juan
+   sichuan, slip-on, sorbonne, stephane, st_john, taiwan, tehran, toran, try-on
+   upon, vivyan, walk-on, yaohan, yirng-an, yuan, yvonne
+
+3: almazan, balaban, cadogan, christiane, christianne, dainippon, denouement
+   goings-on, guei-yuan, irelan, kazakhstan, moldovan, moseley-braun, nithuekan
+   perignon(2), rapprochement, sanjuan, teheran, thereupon, villagran, whereupon
+
+4: azerbaijan, napolitan, santistevan, srinivasan
+
+RHYME> Finding perfect rhymes for wanna...
+2: ana, donna, dwana, gonna, juana, mana, nona, qana, ronna, sana, wanna
+   wanta(2)
+
+3: akana, alanna, aulana, biana, botswana, briana(2), caronna, didonna, guiana
+   guyana, haryana, iguana, ivana, ivanna, kiwani, liana, lianna, louanna
+   madonna, nirvana, parana, shobana, shobanna, silvana, stephana, susana
+   svetlana, tatyana, tawana, tijuana, umana, zuzana
+
+4: benihana, bonadonna, digiovanna, giancana, lackawanna, mahayana, marianna
+   marijuana, mazzorana, santayana, suzuana
+
+5: bophuthatswana, dominicana, sebastiana
+
+6: habyarimana
+
+RHYME> Finding perfect rhymes for warm...
+1: dorm, form, norm, orme, schwarm, storm, swarm, torme, warm
+
+2: conform, deform, inform, lukewarm, perform, reform, transform
+
+3: disinform, misinform
+
+RHYME> Finding perfect rhymes for well...
+1: behl, bel, bell, belle, cel, cell, chell, clell, del, dell, delle, dwell
+   dwelle, ehle, el, ell, elle, fehl, fel, fell, frel, gehl, gel, gell, grell
+   grelle, guel, hehl, hell, helle, jell, kehl, kell, kjell, knell, krell, l, l.
+   lehl, mehl, mel, mell, melle, nel, nell, nelle, pehl, pell, pelle, prell
+   quell, schell, schmehl, schnell, schnelle, sell, selle, shell, smell, snell
+   spell, stell, stelle, strehl, strehle, swell, tel, tell, well, welle, yell
+   yelle, zel, zell, zelle
+
+2: accel, adel, adele, adell, adelle, adwell, akel, ancel, angelle, ansel
+   antell, anwell, apel, ardelle, arel, armel, arnelle, arvel, atwell, axtell
+   bandshell, bardell, battelle, bechtel, bedel, befell, bendel(2), beutel
+   bignell, bodell, boutell, boutelle, bozell, bracknell, brownell, brunelle
+   bucknell, burdell, burrell, buzzell, cabell, cantrell, cantrelle, capelle
+   carel, carmel, cartel, carvel, cattell, caudell, cavell, chanel, chapell
+   chapelle, chappelle, compel, cordell, corel, corell, cornell, cornelle
+   cosell, cotelle, cottrell, danelle, daniele, dantrell, darnell, darrelle
+   decelle, desselle, develle, dispel, dispell, dovel, edell, elwell, estelle
+   excel, expel, ezell, ezelle, farewell, fascell, faupel, ferrel, fidel
+   foretell, frenzel(2), futrell, gabel, gazelle, get-well(2), ginnell, giselle
+   gravelle, grinnell, gsell, harpel, hillel, hormel, hornell, hotel, impel
+   intel, irell, janelle, joelle, labell, labelle, landell, lapel, lavelle
+   leavelle, ledwell, lemelle, leonelle, lobell, loisel, loiselle, lyell
+   mabelle, madelle, mantell, manuel, marcel, marcelle, markel(2), martelle
+   marvell, marvelle, matell, mattel, maxell, maybelle, mckell, mendell, mentel
+   michel, michele, michelle, miguel, mirell, mirelle, misspell, mizel(2)
+   mizelle, montel, morel, morrell, moselle, motel, mousel, mozelle, nadel
+   nevel, niguel, nobel, noel, noelle, nouvelle, novell, noxell, o'dell, octel
+   odell, outsell, ozelle, pantel, pastel, patel, percell, pesnell, postrelle
+   procell, propel, purcell, quesnel, rachelle, rampell, randell, rangel
+   ransdell, raquel, ravel(2), rebel(2), repel, resell, retell, revelle, rintel
+   rochelle, romelle, rozelle, rudelle, ruelle, sabel, samelle, savel, sawtelle
+   scurdell(2), sentelle, sharell, sheftel, shirell, shirelle, shortell, sibelle
+   stinel(2), sydell, tavel, torell, twaddell, tyrrell, udelle, ul(2), unsell(2)
+   uzzell, vandaele, varvel, vaupel, vertel, wachtell, waddell, warrell, zumel
+
+3: aol, avenel, carrasquel, clientele, danielle, esquibel, esquivel, gabriele
+   isabell, jeanmichele, kal(2), lyondell, marcantel, mirabel, montiel, orabel
+   personnel, rafael, raphael, riopel, sanmiguel
+
+4: aix-la-chapelle, industrielle, mademoiselle, materiel, nepl(2)
+
+5: anfal, antipersonell
+
+RHYME> Finding perfect rhymes for wide...
+1: bide, bride, chide, clyde, cried, died, dried, dyed, eid, eide, eyed, fide
+   flied, fried, glide, guide, guyed, heid, heide, hide, hyde, i'd, ide, lide
+   lied, lyde, pied, plied, pride, pried, pryde, ride, scheid, schmied, schneid
+   seid, seide, shied, side, sighed, slide, snide, spied, stride, syed, tide
+   tied, tried, vide, vied, why'd, wide, wyden
+
+2: abide, allied, applied, aside, astride, belied, beside, betide, cofide
+   collide, complied, confide, decide, decried, defied, denied, deride, divide
+   implied, inside, liquide, macbride, mcbride, mcbryde, misguide, obeid
+   outside, pool-side, preside, provide, relied, replied, reside, retried
+   stateside, subside, supplied, untied, untried, upside, westside, worldwide
+
+3: alongside, coincide, malahide, misapplied, nationwide, subdivide
+
+4: oversupplied
+
+RHYME> Finding perfect rhymes for will...
+1: 'til, bihl, bil, bill, brill, chill, crill, dill, dille, drill, fil, fill
+   fril, frill, gil, gill, grill, grille, guill, hill, hille, il, ill, jil, jill
+   kill, kille, knill, krill, lil, lill, lille, mil, mill, mille, nil, nill
+   phil, pihl, pil, pill, pille, prill, quill, rill, schill, shill, shrill, sil
+   sill, skill, spill, stihl, stil, still, stille, swill, thill, thrill, til
+   till, trill, twill, ville, we'll(2), wil, will, wille, zil, zill
+
+2: abril, antill, asbill, auvil, bastille(2), belleville, brazil, brizill
+   calill, courville, demille(2), deville, distil, distill, douville, dutil
+   fulfill, gambill, gayshill, goodwill, grabill, instill, isbill, jabril(2)
+   macdill, mcdill, mcgill, newill, pudwill, refill, seville, sunil, tallil
+   until, uphill, waddill
+
+3: quenneville
+
+RHYME> Finding perfect rhymes for wish...
+1: bisch, bish, blish, disch, dish, fisch, fish, frisch, gish, isch, ish
+   kisch, kish, klish, krisch, lish, misch, mish, risch, rish, swish, tisch
+   tish, trish, wisch, wish, wisz
+
+2: commish, demisch, ladish, mcclish, mclish, mcnish
+
+RHYME> Finding perfect rhymes for won't...
+1: bonet, don't, won't, wont
+
+RHYME> Finding perfect rhymes for x...
+1: beck's, becks, blech's, checks, czechs, dec's, decks, dex, eckes, ex
+   flecks, flex, heck's, hex, jex, lex, meckes, mex, necks, next(2), peck's
+   pecks, plex, rex, sex, sheck's, shek's, specks, specs, tech's, techs, teck's
+   tex, treks, vex, wrecks, x, x.
+
+2: annex(2), caltex, cmx, complex(2), convex, dissects(2), effects(2), execs
+   expects(2), nobec's, objects(4), onex, perplex, projects(4), quebec's
+   reflects(2), rejects(3), respects(3), suspects(3), wall-tex
+
+3: atx, govpx, intersects(3), megaplex
+
+RHYME> Finding perfect rhymes for your...
+1: baur, boar, boer, bohr, bore, borre, chore, clore, coar, cohr, cor, core
+   corps, corr, d'or, doerr, dohr, door, dore, dorr, drawer, faure, floor, flor
+   flore, for, fore, four, glor, glore, goar, gore, gorr, hoar, hoare, hoerr
+   horr, knorr, kohr, laur, laure, loar, loehr, lohr, lor, lore, mohr, moore(2)
+   mor, more, morr, nohr, nor, oar, ohr, or, ore, orr, por, pore, porr, pour
+   roar, roehr, rohr, saur, schnorr, schor, schorr, scor, score, shore, shorr
+   snore, soar, sor, sore, spaur, spore, stoehr, stohr, store, storr, swore
+   thor, tor, tore, torr, torre, vore, war, warr, whore, woehr, wor, wore, yore
+   your
+
+2: abhor, ador, adore, afore, amour, ashore, bator, before, c4, cat-4, decor
+   delore, deplore, devor, dior, elnore, explore, gabor, galore, gilgore
+   hardcore, ignore, igor, implore, inscore, inshore, jambor, labore, lahore
+   lalor, lamaur, lazor, lenore, livor, longcor, m4, mazor, melor, ngor, noncore
+   offshore, outpour, outscore, postwar, prewar, rapport, restore, roquemore
+   rumore, sedor, senor, timor
+
+3: antiwar, anymore, armentor, balthazor, guarantor, heretofore, livermore
+   montefiore(2), paramore, underscore
+
+4: cavalli-sfor, espectador, montemayor, sotomayor
+
+5: villasenor
+
+Finding perfect rhymes for your(2)...
+1: bloor, boor, buhr, cure, duerr, fluhr(2), foor, fuhr, gloor, jure, luhr(2)
+   lure, moor, moore, muhr, muir, poor, poore, pure, ruhr, schnoor, schuur
+   shure, spoor, stuhr(2), suhr, suhre, suire, sure, tour, ture, uhr, ur(2)
+   you're, your(2)
+
+2: allure, assure, badour, baldur, bijur, bonjour, brochure, couture, damour
+   demure, detour, dufour, endure, ensure, gilmour, gochnour, impure, insure
+   inure, jabbour, lacour, lancour, latour, lesure, lumpur, manure, mature
+   mosur, obscure, procure, rednour, secure, segur, stamour, unsure
+
+3: amanpour, beladur, immature, pimplapure, premature, reassure, reinsure
+
+4: entrepreneur(2), observateur
+
+RHYME> 

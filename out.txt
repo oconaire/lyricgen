@@ -1,0 +1,129 @@
+Rhyming Dictionary 0.9 - interactive mode
+ - exits on an empty line
+ - type . to toggle between rhyme and syllable searches
+ - type , to toggle between merged and non-merged results
+ - type ? for help
+RHYME> Finding perfect rhymes for app...
+1: app, cap, capp, chap, chapp, clap, clapp, crap, dapp, flap, frap, gap, gapp
+   hap, happ, happe, jap, kapp, klapp, knapp, krapp, lap, lapp, lappe, map, mapp
+   nap, napp, pap, papp, rap, rapp, rappe, sap, sapp, schapp, schnapp, scrap
+   shap, shapp, slap, snap, snapp, stapp, strap, tap, tapp, tappe, trap, trapp
+   trappe, wrap, yap, yapp, zap, zapp
+
+2: entrap, giap, mayhap(2), recap(2), unwrap
+
+RHYME> Finding perfect rhymes for apple...
+2: appel, appell, apple, cappel, chapel, chappel, chappell, chapple, grapple
+   happel, kappel, mapel, schappell, shappell, snapple, stapel
+
+RHYME> Finding perfect rhymes for bar...
+1: ahr, ar, are, baar, bahr(2), bahre, bar, barr, barre(2), car, carr, carre
+   char, claar, clar, csar, czar, dar, darr(2), fahr, far, farr, flohr, gaar
+   gahr, gar, gohr, haar, jahr, jar, kahr, kahre(2), karr, klar, lahr, lar
+   maher, mahr, mar, marr, mawr(2), meagher, our(3), paar, par, parr, pfarr
+   phar, pharr, quarre, r, r., saar, sar, scar, schaar, schar, scharr, skaar
+   sklar, spahr, spar, sphar, spohr, staar, star, starr, tar, tarr, thar, tsar
+   voir, yahr
+
+2: adar, afar, ajar, algar, allar, alvare(2), amar, azar, azhar, bargar
+   bazaar, bazar, bejar, bizarre, bodnar, bogar, bognar, bomar, bondar
+   bonior(2), boyar, ceasar, cigar, cisar, cotnoir, cousar, d'ivoire, dakar
+   dardar, demar, detar, dinar, disbar, dzhokhar, dzokhar, farquar, farrar
+   ghafar, giroir, giscard(2), godar, gombar, gregoire, guitar, guizar, hajjar
+   hamar, hribar, huizar, jabar, jabbar, jaffar, jamar, jiar, jr(2), kadar(2)
+   kjar, kumar, labar, lamar, lamarr, lebar, lemar, mcgarr, melgar, minnaar
+   myanmar, najar, najjar, navar, navarre, nayyar, nazar, obar, obarr, paccar
+   pickar, pintar, preslar, qatar, renoir, revoir, ribar, robar, sagar, sharar
+   sharrar, soutar, subpar, tabar, tesar, tokar, tovar, transtar, victoire
+   zachar, zadar(2), zagar, zalar
+
+3: aer(2), almanzar, andujar, aquilar, avelar, baldemar, baltazar, delamar
+   delebarre, hekmatyar, hocevar, menjivar, npr, rajkumar, saldivar, saldovar
+   superstar, valdemar, zaldivar, zulfikar
+
+4: almodovar, balakumar, emdr, qasr(2)
+
+5: wor(2)
+
+RHYME> Finding perfect rhymes for bear...
+1: aer, air, ayre, baehr(2), baer, bahr, bair, bare, bear, behr, blair, blare
+   caire, care, chair, cher, clair, claire, clare, dare, darr, derr, dreher, err
+   eyre, fair, faire, fare, fehr, fer(2), ferre, flair, flare, fraire, freyre
+   gair, gare, gehr, glare, guerre, hair, haire, hairr, hare, hehr, heir, herr
+   herre, kahre, kehr, khmer, klare, knerr, kreher, lair, lare, lehr, mair
+   maire, mare, mehr, mer, nair, ne'er, pair, pare, pear, phair, plair, prayer
+   rare, reher, sare, sayre, scare, schehr, scherr, sehr, serr, share, sherr
+   skare, snare, spare, square, stair, stare, stehr, sterr, swear, tear
+   terre(2), their, there, they're, traer, ware, wear, wehr, werre, where, zehr
+
+2: abair, adair, adaire, addair, affair, alair, allaire, astaire, auclair
+   aware, bancaire, beaufrere, belair, belaire, beware, bezaire, boisclair
+   coderre, comair, compare, convair, corriere, declare, delair, despair
+   dispair, ensnare, forswear, frontiere, geniere, gisclair, glenayre, impair
+   kenmare, laware, leclaire, lefrere, lemaire, macnair, mcnair, midair, moliere
+   montclair, o'hare, opere, pentair, pershare, pierre, praxair, prepare, repair
+   santerre, sinclair, st_clair, st_claire, swissair, takecare, trosclair
+   unfair, voltaire, westair, whitehair
+
+3: almaguer, bellemare, billionaire, canadair, debonair, disrepair
+   doctrinaire, icelandair, javier, jeanpierre, larosiere, laterriere, maxicare
+   microware, millionaire, nationair, questionnaire, solitaire, st_pierre
+   unaware, usair
+
+4: concessionaire
+
+5: euromobiliare, multimillionaire
+
+RHYME> Finding perfect rhymes for bare...
+1: aer, air, ayre, baehr(2), baer, bahr, bair, bare, bear, behr, blair, blare
+   caire, care, chair, cher, clair, claire, clare, dare, darr, derr, dreher, err
+   eyre, fair, faire, fare, fehr, fer(2), ferre, flair, flare, fraire, freyre
+   gair, gare, gehr, glare, guerre, hair, haire, hairr, hare, hehr, heir, herr
+   herre, kahre, kehr, khmer, klare, knerr, kreher, lair, lare, lehr, mair
+   maire, mare, mehr, mer, nair, ne'er, pair, pare, pear, phair, plair, prayer
+   rare, reher, sare, sayre, scare, schehr, scherr, sehr, serr, share, sherr
+   skare, snare, spare, square, stair, stare, stehr, sterr, swear, tear
+   terre(2), their, there, they're, traer, ware, wear, wehr, werre, where, zehr
+
+2: abair, adair, adaire, addair, affair, alair, allaire, astaire, auclair
+   aware, bancaire, beaufrere, belair, belaire, beware, bezaire, boisclair
+   coderre, comair, compare, convair, corriere, declare, delair, despair
+   dispair, ensnare, forswear, frontiere, geniere, gisclair, glenayre, impair
+   kenmare, laware, leclaire, lefrere, lemaire, macnair, mcnair, midair, moliere
+   montclair, o'hare, opere, pentair, pershare, pierre, praxair, prepare, repair
+   santerre, sinclair, st_clair, st_claire, swissair, takecare, trosclair
+   unfair, voltaire, westair, whitehair
+
+3: almaguer, bellemare, billionaire, canadair, debonair, disrepair
+   doctrinaire, icelandair, javier, jeanpierre, larosiere, laterriere, maxicare
+   microware, millionaire, nationair, questionnaire, solitaire, st_pierre
+   unaware, usair
+
+4: concessionaire
+
+5: euromobiliare, multimillionaire
+
+RHYME> Finding perfect rhymes for cat...
+1: at, bat, batt, batte, bhatt, blatt, brat, bratt, cat, catt, chat, dat, fat
+   flat, flatt, gat, gatt, glatt, gnat, hat, hatt, hnat, jagt, kat, katt, klatt
+   krat, kratt, lat(2), mat, matt, matte, nat, pat, patt, platt, platte, pratt
+   pratte, rat, ratte, sat, scat, schadt, shatt, slaght, slat, spat, splat
+   spratt, stat, tat, that, vat
+
+2: arnatt, at-bat, begat, biernat, combat(2), cravat, delatte, deslatte, elat
+   labatt, landsat, mcnatt, nonfat, prevatt, prevatte, sadat(2), sarratt, tvsat
+
+3: balyeat, gujarat, inmarsat, rat-a-tat, tit-for-tat
+
+RHYME> Finding perfect rhymes for cater...
+2: ater, baiter, cater, claytor, crater, dater, flater, frater, freighter
+   gaiter, gator, grater, greater, hater, hayter, kater, later, mater(2), pater
+   plater, prater, praytor, rater, satre, satyr, schlater, skater, slater
+   slayter, sleator, stater, straighter, strater, traitor, vater, waiter, yater
+
+3: creator, curator, debater, debator, decatur, deflator, dictator, equator
+   inflator, lemaitre, mercator, misater, translator, vanmatre, viator
+
+4: vindicator, wheelabrator
+
+RHYME> 
