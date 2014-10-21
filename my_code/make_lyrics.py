@@ -130,6 +130,7 @@ PoemGenerator(LanguageDefinition)
 class PoemGenerator:
   def __init__(self, language_def):
     self.language_def = language_def
+    self.debug = False
 
   def GetLine(self, num_syllables, rhyming_word=None, attempts=100000, allow_guess=False,
               last_word_must_have_rhymes=False):
@@ -176,7 +177,8 @@ class PoemGenerator:
         if score > best_score:
           best_score = score
           best = " ".join(curr)
-          print("S=%0.9g : %s" % (score, best))
+          if self.debug:
+            print("S=%0.9g : %s" % (score, best))
       # else:
       #   print("Wrong number of syllables: ", curr, self.language_def.GetSyllables(curr))
 
@@ -624,11 +626,37 @@ class RhymingDictionary:
       info_queue = []
 
 
+def LastWord(line):
+  return line.split()[-1]
+
+def MakeLimerick(poem_gen):
+  # Form = AABBA
+  lines = []
+  poem_line = poem_gen.GetLine(9, allow_guess=True, rhyming_word=None, last_word_must_have_rhymes=True, attempts=500)
+  lines.append(poem_line)
+  poem_line = poem_gen.GetLine(9, allow_guess=True, rhyming_word=LastWord(poem_line), last_word_must_have_rhymes=True, attempts=500)
+  lines.append(poem_line)
+  poem_line = poem_gen.GetLine(5, allow_guess=True, rhyming_word=None, last_word_must_have_rhymes=True, attempts=500)
+  lines.append(poem_line)
+  poem_line = poem_gen.GetLine(5, allow_guess=True, rhyming_word=LastWord(poem_line), last_word_must_have_rhymes=True, attempts=500)
+  lines.append(poem_line)
+  count=0
+  while count<200:
+    poem_line = poem_gen.GetLine(9, allow_guess=True, rhyming_word=LastWord(lines[0]), last_word_must_have_rhymes=True, attempts=500)
+    count += 1
+    if LastWord(poem_line) != LastWord(lines[1]):
+      break
+  lines.append(poem_line)
+  return lines
+
+
+
 
 
 
 def main():
-  db_dir = "C:\\Users\\oconaire\\Documents\\Projects\\LyricsGen\\datasets\\"
+  # db_dir = "C:\\Users\\oconaire\\Documents\\Projects\\LyricsGen\\datasets\\"
+  db_dir = "..\\datasets\\"
   sub_dirs_parser = {
       # "lyrics": LyricsParser,
       "books": BookParser
@@ -666,6 +694,7 @@ def main():
     print(lang_def.GetNextWord("."))
 
   poem_gen = PoemGenerator(lang_def)
+
   for k in range(5,9):
     print("num_syllables = %d" % k)
     lines = []
@@ -683,6 +712,13 @@ def main():
     print("POEM:%d" % k)
     for line in lines:
       print(line)
+
+  for li in range(1,11):
+    limerick = MakeLimerick(poem_gen)
+    print("Limerick #%d" % li)
+    for line in limerick:
+      print(line)
+
 
 
 main()
