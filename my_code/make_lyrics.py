@@ -106,6 +106,7 @@ These are also words whose number of syllables is unknown.
 
 """
 
+import json
 import math
 import os
 import string
@@ -310,6 +311,10 @@ class TextFileParser:
     for line in self.GetLines():
       yield line
 
+  def GetLines(self):
+    raise Exception("Not implemented: GetLines")
+
+
 class LyricsParser(TextFileParser):
   def __init__(self, filename):
     TextFileParser.__init__(self, filename)
@@ -473,23 +478,53 @@ rhymes: word --> wordlist
 ._SaveRhymeList(word_syllables_pairs): all these words rhyme  (word, syllables)
 """
 class RhymingDictionary:
-  def __init__(self):
+  def __init__(self, word_queue):
     # Map word to list of rhyming words
     self.rhymes = {}
+    # For each set of rhyming words, map w0 --> set([w0, w1, ...])
+    # where w0 is the first word, when sorted alphabetically
+    self.rhyming_sets = {}
+    # Number of syllables for a given word: word --> int
     self.num_syllables = {}
-    self.word_queue = []
     self.syllables_per_letter = None
 
-  def AddWord(self, word):
-    if word not in self.rhymes:
-      self.word_queue.append(word)
+    self._Compile(word_queue)
 
-  def AddWords(self, words):
-    words = [w for w in words if w not in self.rhymes]
-    self.word_queue = self.word_queue + words
+    self.word_queue = []
+
+  def Write(self, filename):
+    data = [self.rhyming_sets, self.num_syllables, self.syllables_per_letter]
+    with open(filename, "wt") as fp:
+      json.dump(data, fp, sort_keys=True)
+      # json.dump(self.rhyming_sets, fp)
+      # json.dump(self.num_syllables, fp)
+      # json.dump(self.syllables_per_letter, fp)
+
+  def Load(self, filename):
+    with open(filename, "rt") as fp:
+      data = json.load(fp)
+      # self.rhyming_sets = json.load(fp)
+      # self.num_syllables = json.load(fp)
+      # self.syllables_per_letter = json.load(fp)
+    assert len(data) == 3
+    self.rhyming_sets, self.num_syllables, self.syllables_per_letter = data
+    for rhyming_set in self.rhyming_sets.values():
+      for word in rhyming_set:
+        self.rhymes[word] = rhyming_set
+
+  def GetSize(self):
+    return len(self.rhyming_sets), len(self.rhymes)
+
+  # def AddWord(self, word):
+  #   if word not in self.rhymes:
+  #     self.word_queue.append(word)
+
+  # def AddWords(self, words):
+  #   words = [w for w in words if w not in self.rhymes]
+  #   self.word_queue = self.word_queue + words
 
   def GetRhymes(self, word):
-    if word not in self.rhymes: return ()
+    if word not in self.rhymes: return ()   # TODO: should it just return (word) ?
     return tuple(self.rhymes[word])
 
   def GetSyllables(self, line, allow_guess=False):
@@ -512,9 +547,10 @@ class RhymingDictionary:
 
     return count
 
-  def Compile(self):
-    rhyme_raw_text = self._GetBinaryOutput(self.word_queue)
-    self.word_queue = []
+  def _Compile(self, word_queue):
+    # rhyme_raw_text = self._GetBinaryOutput(self.word_queue)
+    # self.word_queue = []
+    rhyme_raw_text = self._GetBinaryOutput(word_queue)
     self._ParseRawRhymeText(rhyme_raw_text)
     # Compute syllables_per_letter
     total_letters = 0
@@ -522,11 +558,17 @@ class RhymingDictionary:
     for (word, syllables) in self.num_syllables.items():
       total_letters += len(word)
       total_syllables += syllables
-    self.syllables_per_letter = total_syllables / total_letters
-    print("syllables_per_letter = %g" % self.syllables_per_letter)
+    if total_letters:
+      self.syllables_per_letter = total_syllables / total_letters
+      print("syllables_per_letter = %g" % self.syllables_per_letter)
+    else:
+      self.syllables_per_letter = None
+
 
   def _GetBinaryOutput(self, word_list):
-    binary_dir = "C:\\Users\\oconaire\\Documents\\Projects\\LyricsGen\\rhyme_0.9"
+    binary_dir = "C:\\Users\\oconaire\\Documents\\GitHub\\lyricgen\\rhyme_0.9"
+    print(binary_dir)
+    assert os.path.isdir(binary_dir)
     binary_args = binary_dir + "\\rhyme.exe -i"
     input_stream = "\n".join(word_list) + "\n"
     # print("INPUT:", input_stream)
@@ -585,18 +627,37 @@ class RhymingDictionary:
 
   RHYME> *** Word "sdvvssdfv" wasn't found
 
+  Or when there's multiple pronunciations
+
+  RHYME> Finding perfect rhymes for emotions...
+  2: lotion's, lotions, motions, notions, ocean's, oceans, potions
+
+  3: demotions, emotions, promotions
+
+  Finding perfect rhymes for emotions(2)...
+  3: emotions(2)
+
   """
   def _ParseRawRhymeText(self, rhyme_raw_text):
     def UpdateRhymes(info_queue):
-      rhyming_words = [w[1] for w in info_queue]
+      """Input: list of (num_syllables, word)"""
+      rhyming_words = sorted([w[1] for w in info_queue])
       print("Adding %d words" % len(rhyming_words))
+      if "RHYME>" in rhyming_words:
+        print(rhyming_words)
+        print(info_queue)
+        assert "RHYME>" not in rhyming_words
+      # Don't bother adding word sets of size 1
+      if len(rhyming_words) > 1:
+        self.rhyming_sets[rhyming_words[0]] = rhyming_words
       for (ns, word) in info_queue:
         self.num_syllables[word] = ns
         if word not in self.rhymes:
           if " " in word:
             print("---> ", word)
             assert False
-          self.rhymes[word] = rhyming_words
+          if len(rhyming_words) > 1:
+            self.rhymes[word] = rhyming_words
 
     info_queue = []
     lines = [line.strip() for line in rhyme_raw_text.split("\n")]
@@ -604,19 +665,24 @@ class RhymingDictionary:
     num_syllables = None
 
     print("Parsing %d lines" % len(lines))
-    for line in lines:
+    for (line_num, line) in enumerate(lines):
       if not line: continue
       if "Finding perfect rhymes for" in line:
-        UpdateRhymes(info_queue)
-        info_queue = []
+        if info_queue:
+          # print("Process queue [size=%d] line_num=%d" % (len(info_queue), line_num))
+          UpdateRhymes(info_queue)
+          info_queue = []
         curr_word = line.split()[-1].replace("...", "")
         continue
       elif "***" in line:
+        curr_word = None
         continue
       elif ":" in line:
         num_str, line = line.split(":")
         num_syllables = int(num_str)
       elif curr_word is None:
+        continue
+      elif line == "RHYME>":
         continue
       words = line.strip().split(", ")
       for word in words:
@@ -625,6 +691,12 @@ class RhymingDictionary:
       UpdateRhymes(info_queue)
       info_queue = []
 
+# 16115 = Finding perfect rhymes for
+# RHYME> = 21098
+# *** = 6040
+# "RHYME> ***" = 6040
+# "RHYME> Finding perfect rhymes for" = 15057
+# 15057 + 6040 = 21097  (1 missing!)
 
 def LastWord(line):
   return line.split()[-1]
@@ -650,16 +722,27 @@ def MakeLimerick(poem_gen):
   return lines
 
 
-
-
+# No 'other/books'
+# (1047, 27438)
+# No 'other/lyrics'
+# (5100, 51081)
+# No 'other'
+# (5335, 52659)
+# All
+# (5507, 53417)
+# All new
+# (7695, 61761)
+# Removed single word rhyming sets
+# (4539, 58605)
 
 
 def main():
   # db_dir = "C:\\Users\\oconaire\\Documents\\Projects\\LyricsGen\\datasets\\"
   db_dir = "..\\datasets\\"
   sub_dirs_parser = {
-      # "lyrics": LyricsParser,
-      "books": BookParser
+      "lyrics": LyricsParser,
+      "other": BookParser,
+      "books": BookParser,
       }
 
   text_dataset = TextDataset()
@@ -667,6 +750,7 @@ def main():
     data_files = [f for f in os.listdir(os.path.join(db_dir, sub_dir)) if f.endswith(".txt")]
     for data_file in data_files:
       filename = os.path.join(db_dir, sub_dir, data_file)
+      print(filename)
       text_dataset.AddFile(parser(filename), source_description = filename)
   # text_dataset.AddFile(db_dir + "the_collector.txt")
   # text_dataset.AddFile(db_dir + "tool_aenima.txt")
@@ -681,13 +765,21 @@ def main():
       print("Quitting printout at index=%d..." % index)
       break
 
-  rhyming_dict = RhymingDictionary()
-  rhyming_dict.AddWords(text_dataset.GetWords())
-  rhyming_dict.Compile()
+  rhyming_dict = RhymingDictionary(text_dataset.GetWords())
+  # rhyming_dict.AddWords(text_dataset.GetWords())
+  # rhyming_dict.Compile()
+
+  print("Writing dictionary: size = ", rhyming_dict.GetSize())
+  rhyming_dict.Write("dict.json")
+  # Test that we can reload the same dictionary
+  rhyming_dict = RhymingDictionary([])
+  rhyming_dict.Load("dict.json")
+
 
   # print(rhyming_dict.num_syllables)
   print(rhyming_dict.GetRhymes("jill"))
   print(rhyming_dict.GetRhymes("got"))
+
 
   lang_def = LanguageDefinition(text_dataset, rhyming_dict)
   for i in range(20):
